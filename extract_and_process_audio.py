@@ -126,5 +126,4 @@ def extract_and_process_audio():
     delete_folder(TEMP_DIR)
 
     # Create the manifest file after downloading and resampling
-    manifest_file = os.path.join(AUDIO_DIR, "manifest.json")
-    create_manifest(AUDIO_DIR, texts, unique_filenames, manifest_file)
+    create_manifest(AUDIO_DIR, texts, unique_filenames, MANIFEST_FILE)

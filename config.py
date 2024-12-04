@@ -14,3 +14,8 @@ TARGET_SAMPLING_RATE = 22050
 
 # Threading parameters
 MAX_THREADS = 16
+
+# Manifest files
+MANIFEST_FILE = AUDIO_DIR + "/" + "manifest.json"
+MANIFEST_VALIDATION = "manifest_validation.json"
+MANIFEST_TRAIN = "manifest_train.json"

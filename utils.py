@@ -1,4 +1,5 @@
 from imports import *
+from config import *
 
 def delete_folder(folder_path):
     """
@@ -12,3 +13,7 @@ def audio_duration(file_path):
     """Calculate the duration of an audio file in seconds."""
     with sf.SoundFile(file_path) as f:
         return len(f) / f.samplerate
+
+def split_data():
+    os.system(f"cat {MANIFEST_FILE} | tail -n 5 > {MANIFEST_VALIDATION}")
+    os.system(f"cat {MANIFEST_FILE} | head -n -5 > {MANIFEST_TRAIN} ")
