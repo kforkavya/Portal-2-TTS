@@ -4,14 +4,15 @@ from extract_and_process_audio import extract_and_process_audio
 import torch.optim as optim
 from torch.utils.data import DataLoader
 from custom_dataset import CustomDataset
+from my_hparams import create_hparams
 sys.path.append('tacotron2')
 from model import Tacotron2
 from loss_function import Tacotron2Loss
-from hparams import create_hparams
+from data_utils import TextMelCollate
 
 def preprocess():
     print("Starting the audio extraction process...")
-    extract_and_process_audio()
+    # extract_and_process_audio()
     print("Audio Processing Complete!")
     print("Splitting data...")
     split_data()
@@ -50,20 +51,21 @@ def main():
     # Get the data
     training_data, val_data = get_data()
 
+    # Create hyperparameters
+    hparams = create_hparams()
+
     # Make the dataset classes
-    train_dataset = CustomDataset(training_data)
-    val_dataset = CustomDataset(val_data)
+    train_dataset = CustomDataset(training_data, hparams)
+    val_dataset = CustomDataset(val_data, hparams)
 
     # Load the datasets
-    train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=NUM_WORKERS)
-    val_loader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False, num_workers=NUM_WORKERS)
+    collate_fn = TextMelCollate(hparams.n_frames_per_step)
+    train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True, collate_fn=collate_fn, num_workers=NUM_WORKERS)
+    val_loader = DataLoader(val_dataset, batch_size=BATCH_SIZE, shuffle=False, collate_fn=collate_fn,  num_workers=NUM_WORKERS)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("device is", device)
 
-    # Create hyperparameters
-    hparams = create_hparams()
-    
     # If additional configuration is needed
     hparams.sampling_rate = TARGET_SAMPLING_RATE
 
@@ -77,7 +79,7 @@ def main():
     optimizer = optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
     # Make the checkpoints folder
-    os.makedirs(CHECKPOINT_DIR, exists_ok=True)
+    os.makedirs(CHECKPOINT_DIR, exist_ok=True)
     
     # Staring from the last calculated epoch
     start_epoch = 0  # Default starting epoch

@@ -21,17 +21,26 @@ def split_data(test_ratio=0.1):
     os.system(f"cat {MANIFEST_FILE} | tail -n {test_data_size} > {MANIFEST_VALIDATION}")
     os.system(f"cat {MANIFEST_FILE} | head -n -{test_data_size} > {MANIFEST_TRAIN} ")
 
-def extract_mel_spectrogram(audio_file, sr=TARGET_SAMPLING_RATE, n_fft=2048, hop_length=512, n_mels=80):
-    """Extract Mel spectrogram from the audio file."""
+def extract_mel_spectrogram(audio_file, sr=TARGET_SAMPLING_RATE, n_fft=2048, hop_length=512, n_mels=80, max_wav_value=32768.0):
+    """Extract Mel spectrogram matching the PyTorch tensor-based implementation."""
+    # Load audio and ensure sampling rate matches
     audio, _ = librosa.load(audio_file, sr=sr)
+    
+    # Normalize audio to match the PyTorch implementation
+    audio_norm = audio / max_wav_value
+    
+    # Add batch dimension to audio (like unsqueeze in PyTorch)
+    audio_norm = np.expand_dims(audio_norm, axis=0)
+    
+    # Compute Mel spectrogram
     mel_spectrogram = librosa.feature.melspectrogram(
-        y=audio, 
-        sr=sr, 
-        n_fft=n_fft, 
-        hop_length=hop_length, 
+        y=audio_norm[0],
+        sr=sr,
+        n_fft=n_fft,
+        hop_length=hop_length,
         n_mels=n_mels
     )
-    mel_spectrogram = librosa.power_to_db(mel_spectrogram, ref=np.max)  # Convert to dB scale
+    
     return mel_spectrogram
 
 def preprocess_text(text):
