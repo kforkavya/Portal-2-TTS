@@ -1,254 +1,234 @@
-{"audio_filepath": "audio/GLaDOS_00_part1_entry-1.wav", "duration": 5.905034013605442, "text": "hello and, again, welcome to the aperture science computer-aided enrichment center."}
-{"audio_filepath": "audio/GLaDOS_00_part1_entry-2.wav", "duration": 4.259047619047619, "text": "we hope your brief detention in the relaxation vault has been a pleasant one."}
-{"audio_filepath": "audio/GLaDOS_00_part1_entry-3.wav", "duration": 4.888253968253968, "text": "your specimen has been processed and we are now ready to begin the test proper."}
-{"audio_filepath": "audio/GLaDOS_00_part1_entry-4.wav", "duration": 10.194104308390022, "text": "before we start, however, keep in mind that although fun and learning are the primary goals of all enrichment center activities, serious injuries may occur."}
-{"audio_filepath": "audio/GLaDOS_00_part1_entry-7.wav", "duration": 5.741451247165533, "text": "stand back. the portal will open in three, two, one."}
-{"audio_filepath": "audio/GLaDOS_00_part1_success-1.wav", "duration": 5.4380045351473925, "text": "excellent. please proceed into the chamberlock after completing each test."}
-{"audio_filepath": "audio/GLaDOS_00_part1_success-2.wav", "duration": 4.661360544217687, "text": "first, however, note the incandescent particle field across the exit."}
-{"audio_filepath": "audio/GLaDOS_00_part1_success-3.wav", "duration": 12.287619047619048, "text": "this aperture science material emancipation grill will vaporize any unauthorized equipment that passes through it - for instance, the aperture science weighted storage cube."}
-{"audio_filepath": "audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-1.wav", "duration": 4.6151473922902495, "text": "please do not attempt to remove testing apparatus from the testing area."}
-{"audio_filepath": "audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-2.wav", "duration": 5.175646258503401, "text": "a replacement aperture science weighted storage cube will be delivered shortly."}
-{"audio_filepath": "audio/GLaDOS_00_part2_entry-1.wav", "duration": 7.3140136054421765, "text": "please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty super-colliding super button."}
-{"audio_filepath": "audio/GLaDOS_00_part2_success-1.wav", "duration": 10.19591836734694, "text": "perfect. please move quickly to the chamberlock, as the effects of prolonged exposure to the button are not part of this test."}
-{"audio_filepath": "audio/GLaDOS_01_part1_entry-1.wav", "duration": 2.1374603174603175, "text": "you're doing very well!"}
-{"audio_filepath": "audio/GLaDOS_01_part1_entry-2.wav", "duration": 18.65297052154195, "text": "please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill, which may, in semi- rare cases, emancipate dental fillings, crowns, tooth enamel, and teeth."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-1.wav", "duration": 7.632018140589569, "text": "very good! you are now in possession of the aperture science handheld portal device."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-2.wav", "duration": 2.894104308390023, "text": "with it, you can create your own portals."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-3.wav", "duration": 3.99124716553288, "text": "these intra dimensional gates have proven to be completely safe."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-4.wav", "duration": 1.8539229024943311, "text": "the device, however, has not."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-5.wav", "duration": 2.985124716553288, "text": "do not touch the operational end of the device."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-6.wav", "duration": 3.6920634920634923, "text": "do not look directly at the operational end of the device."}
-{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-7.wav", "duration": 3.510294784580499, "text": "do not submerge the device in liquid, even partially."}
-{"audio_filepath": "audio/GLaDOS_01_part2_entry-1.wav", "duration": 3.4519274376417233, "text": "please proceed to the chamberlock. mind the gap."}
-{"audio_filepath": "audio/GLaDOS_01_part2_success-1.wav", "duration": 6.1013605442176875, "text": "well done! remember: the aperture science bring your daughter to work day is the perfect time to have her tested."}
-{"audio_filepath": "audio/GLaDOS_02_part1_entry-1.wav", "duration": 2.027528344671202, "text": "welcome to test chamber four."}
-{"audio_filepath": "audio/GLaDOS_02_part1_entry-2.wav", "duration": 1.545079365079365, "text": "you're doing quite well."}
-{"audio_filepath": "audio/GLaDOS_02_part1_success-1.wav", "duration": 2.2969614512471654, "text": "once again, excellent work."}
-{"audio_filepath": "audio/GLaDOS_02_part1_success-2.wav", "duration": 8.322766439909296, "text": "as part of a required test protocol, we will not monitor the next test chamber. you will be entirely on your own. good luck."}
-{"audio_filepath": "audio/GLaDOS_02_part2_success-1.wav", "duration": 9.042267573696146, "text": "as part of a required test protocol, our previous statement suggesting that we would not monitor this chamber was an outright fabrication."}
-{"audio_filepath": "audio/GLaDOS_03_part1_entry-1.wav", "duration": 13.211292517006802, "text": "while safety is one of many enrichment center goals, the aperture science high energy pellet, seen to the left of the chamber, can and has caused permanent disabilities, such as vaporization."}
-{"audio_filepath": "audio/GLaDOS_03_part1_entry-2.wav", "duration": 1.2614058956916099, "text": "please be careful."}
-{"audio_filepath": "audio/GLaDOS_03_part2_entry-1.wav", "duration": 12.790430839002267, "text": "warning devices are required on all mobile equipment. however, alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety."}
-{"audio_filepath": "audio/GLaDOS_03_part2_platform_activated-1.wav", "duration": 6.637142857142857, "text": "good. now use the aperture science unstationary scaffold to reach the chamberlock."}
-{"audio_filepath": "audio/GLaDOS_04_part1_entry-1.wav", "duration": 12.526213151927438, "text": "please note that we have added a consequence for failure. any contact with the chamber floor will result in an 'unsatisfactory' mark on your official testing record followed by death. good luck!"}
-{"audio_filepath": "audio/GLaDOS_04_part1_success-1.wav", "duration": 6.848027210884354, "text": "very impressive. please note that any appearance of danger is merely a device to enhance your testing experience."}
-{"audio_filepath": "audio/GLaDOS_05_part1_entry-1.wav", "duration": 5.304263038548753, "text": "the enrichment center regrets to inform you that this next test is impossible."}
-{"audio_filepath": "audio/GLaDOS_05_part1_entry-2.wav", "duration": 2.0564172335600905, "text": "make no attempt to solve it."}
-{"audio_filepath": "audio/GLaDOS_05_part1_nag1-1.wav", "duration": 5.088526077097506, "text": "the enrichment center apologizes for this clearly broken test chamber."}
-{"audio_filepath": "audio/GLaDOS_05_part1_nag2-1.wav", "duration": 8.419274376417233, "text": "once again, the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment."}
-{"audio_filepath": "audio/GLaDOS_05_part1_nag3-1.wav", "duration": 5.688571428571429, "text": "frankly, this chamber was a mistake. if we were you, we would quit now."}
-{"audio_filepath": "audio/GLaDOS_05_part1_nag4-1.wav", "duration": 9.416281179138322, "text": "no one will blame you for giving up. in fact, quitting at this point is a perfectly reasonable response."}
-{"audio_filepath": "audio/GLaDOS_05_part1_nag5-1.wav", "duration": 3.8580498866213153, "text": "quit now and cake will be served immediately."}
-{"audio_filepath": "audio/GLaDOS_05_part1_success-1.wav", "duration": 7.471020408163265, "text": "fantastic! you remained resolute and resourceful in an atmosphere of extreme pessimism."}
-{"audio_filepath": "audio/GLaDOS_06_part1_success_1-1.wav", "duration": 8.380952380952381, "text": "spectacular. you appear to understand how a portal affects forward momentum, or to be more precise, how it does not."}
-{"audio_filepath": "audio/GLaDOS_06_part1_success_2-1.wav", "duration": 9.750839002267574, "text": "momentum, a function of mass and velocity, is conserved between portals. in layman's terms, speedy thing goes in, speedy thing comes out."}
-{"audio_filepath": "audio/GLaDOS_07_part1_entry-1.wav", "duration": 5.275192743764173, "text": "the enrichment center promises to always provide a safe testing environment."}
-{"audio_filepath": "audio/GLaDOS_07_part1_entry-2.wav", "duration": 6.8966439909297055, "text": "in dangerous testing environments, the enrichment center promises to always provide useful advice."}
-{"audio_filepath": "audio/GLaDOS_07_part1_entry-3.wav", "duration": 3.9751473922902494, "text": "for instance, the floor here will kill you - try to avoid it."}
-{"audio_filepath": "audio/GLaDOS_07_part1_trapped-1.wav", "duration": 5.061496598639456, "text": "through no fault of the enrichment center, you have managed to trap yourself in this room."}
-{"audio_filepath": "audio/GLaDOS_07_part1_trapped-2.wav", "duration": 4.122358276643991, "text": "an escape hatch will open in three... two... one."}
-{"audio_filepath": "audio/GLaDOS_07_part1_get_device_component-1.wav", "duration": 5.276281179138322, "text": "the device has been modified so that it can now manufacture two linked portals at once."}
-{"audio_filepath": "audio/GLaDOS_07_part1_get_device_component-2.wav", "duration": 5.544897959183674, "text": "as part of an optional test protocol, we are pleased to present an amusing fact:"}
-{"audio_filepath": "audio/GLaDOS_08_part1_entry-1.wav", "duration": 6.739410430839002, "text": "now that you are in control of both portals, this next test could take a very, very, long time."}
-{"audio_filepath": "audio/GLaDOS_08_part1_entry-2.wav", "duration": 3.935736961451247, "text": "if you become light-headed from thirst, feel free to pass out."}
-{"audio_filepath": "audio/GLaDOS_08_part1_entry-3.wav", "duration": 6.181360544217687, "text": "an intubation associate will be dispatched to revive you with peptic salve and adrenaline."}
-{"audio_filepath": "audio/GLaDOS_08_part1_success-1.wav", "duration": 6.111927437641723, "text": "as part of a previously mentioned required test protocol, we can no longer lie to you."}
-{"audio_filepath": "audio/GLaDOS_08_part1_success-2.wav", "duration": 3.1831746031746033, "text": "when the testing is over, you will be missed."}
-{"audio_filepath": "audio/GLaDOS_09_part1_entry-1.wav", "duration": 9.80843537414966, "text": "all subjects intending to handle high-energy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues."}
-{"audio_filepath": "audio/GLaDOS_09_part1_entry-2.wav", "duration": 8.741950113378685, "text": "no further compliance information is required or will be provided, and you are an excellent test subject!"}
-{"audio_filepath": "audio/GLaDOS_09_part1_success-1.wav", "duration": 5.9140589569161, "text": "very very good. a complimentary victory lift has been activated in the main chamber."}
-{"audio_filepath": "audio/GLaDOS_08_part1_trapped-1.wav", "duration": 10.540272108843537, "text": "despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities, you have managed to ensnare yourself permanently inside this room."}
-{"audio_filepath": "audio/GLaDOS_08_part1_trapped-2.wav", "duration": 4.944943310657596, "text": "a complimentary escape hatch will open in three... two... one."}
-{"audio_filepath": "audio/GLaDOS_10_part1_entry-1.wav", "duration": 4.380589569160998, "text": "the enrichment center is committed to the well being of all participants."}
-{"audio_filepath": "audio/GLaDOS_10_part1_entry-2.wav", "duration": 4.569659863945578, "text": "cake and grief counseling will be available at the conclusion of the test."}
-{"audio_filepath": "audio/GLaDOS_10_part1_entry-3.wav", "duration": 2.91437641723356, "text": "thank you for helping us help you help us all."}
-{"audio_filepath": "audio/GLaDOS_10_part1_success-1.wav", "duration": 8.106666666666667, "text": "did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls? it's true!"}
-{"audio_filepath": "audio/GLaDOS_11_part1_entry-1.wav", "duration": 7.168027210884354, "text": "due to mandatory scheduled maintenance, the appropriate chamber for this testing sequence is currently unavailable."}
-{"audio_filepath": "audio/GLaDOS_11_part1_entry-2.wav", "duration": 5.386666666666667, "text": "it has been replaced with a live-fire course designed for military androids."}
-{"audio_filepath": "audio/GLaDOS_11_part1_entry-3.wav", "duration": 5.5193197278911565, "text": "the enrichment center apologizes for the inconvenience and wishes you the best of luck."}
-{"audio_filepath": "audio/GLaDOS_11_part1_success-1.wav", "duration": 9.93814058956916, "text": "well done, android. the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance."}
-{"audio_filepath": "audio/GLaDOS_13_part1_entry-1.wav", "duration": 6.969614512471655, "text": "the vital apparatus vent will deliver a weighted companion cube in three. two. one."}
-{"audio_filepath": "audio/GLaDOS_13_part1_pickup-1.wav", "duration": 6.062448979591837, "text": "this weighted companion cube will accompany you through the test chamber. please take care of it."}
-{"audio_filepath": "audio/GLaDOS_13_part1_middle-1.wav", "duration": 9.48, "text": "the symptoms most commonly produced by enrichment center testing are superstition, perceiving inanimate objects as alive, and hallucinations."}
-{"audio_filepath": "audio/GLaDOS_13_part1_middle-2.wav", "duration": 8.373242630385487, "text": "the enrichment center reminds you that the weighted companion cube will never threaten to stab you and, in fact, cannot speak."}
-{"audio_filepath": "audio/GLaDOS_13_part1_middle-2b-1.wav", "duration": 4.84, "text": "the enrichment center reminds you that the weighted companion cube cannot speak."}
-{"audio_filepath": "audio/GLaDOS_13_part1_middle-2b-2.wav", "duration": 7.477551020408163, "text": "in the event that the weighted companion cube does speak, the enrichment center urges you to disregard its advice."}
-{"audio_filepath": "audio/GLaDOS_13_part1_end-1.wav", "duration": 4.573650793650794, "text": "you did it! the weighted companion cube certainly brought you good luck."}
-{"audio_filepath": "audio/GLaDOS_13_part1_end-2.wav", "duration": 6.873106575963718, "text": "however, it cannot accompany you for the rest of the test and, unfortunately, must be euthanized."}
-{"audio_filepath": "audio/GLaDOS_13_part1_end-3.wav", "duration": 6.106848072562358, "text": "please escort your companion cube to the aperture science emergency intelligence incinerator."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-1.wav", "duration": 13.688163265306123, "text": "rest assured that an independent panel of ethicists has absolved the enrichment center, aperture science employees, and all test subjects of any moral responsibility for the companion cube euthanizing process."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-2.wav", "duration": 17.647165532879818, "text": "while it has been a faithful companion, your companion cube cannot accompany you through the rest of the test. if it could talk - and the enrichment center takes this opportunity to remind you that it cannot - it would tell you to go on without it because it would rather die in a fire than become a burden to you."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-3.wav", "duration": 4.342131519274377, "text": "testing cannot continue until your companion cube has been incinerated."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-4.wav", "duration": 10.866938775510205, "text": "although the euthanizing process is remarkably painful, eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-5.wav", "duration": 12.120816326530612, "text": "the companion cube cannot continue through the testing. state and local statutory regulations prohibit it from simply remaining here, alone and companionless. you must euthanize it."}
-{"audio_filepath": "audio/GLaDOS_13_part1_endnag-6.wav", "duration": 3.308843537414966, "text": "destroy your companion cube or the testing cannot continue."}
-{"audio_filepath": "audio/GLaDOS_13_part1_euthanized-1.wav", "duration": 6.640907029478458, "text": "you euthanized your faithful companion cube more quickly than any test subject on record. congratulations."}
-{"audio_filepath": "audio/GLaDOS_14_part1_entry-1.wav", "duration": 3.012244897959184, "text": "the experiment is nearing its conclusion."}
-{"audio_filepath": "audio/GLaDOS_14_part1_entry-2.wav", "duration": 6.517777777777778, "text": "the enrichment center is required to remind you that you will be baked, and then there will be cake."}
-{"audio_filepath": "audio/GLaDOS_generic_crate_lost-1.wav", "duration": 1.9417687074829932, "text": "weighted storage cube destroyed."}
-{"audio_filepath": "audio/GLaDOS_generic_crate_lost-2.wav", "duration": 5.82421768707483, "text": "please proceed to the aperture science vital apparatus vent for a replacement."}
-{"audio_filepath": "audio/GLaDOS_14_part1_end-1.wav", "duration": 9.634875283446712, "text": "well done! be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions."}
-{"audio_filepath": "audio/GLaDOS_14_part1_end-2.wav", "duration": 5.618548752834467, "text": "for more information, please attend an enrichment center electrical safety seminar."}
-{"audio_filepath": "audio/GLaDOS_15_part1_entry-1.wav", "duration": 1.723764172335601, "text": "welcome to the final test!"}
-{"audio_filepath": "audio/GLaDOS_15_part1_entry-2.wav", "duration": 5.1309297052154195, "text": "when you are done, you will drop the device in the equipment recovery annex."}
-{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-1.wav", "duration": 2.812063492063492, "text": "congratulations! the test is now over."}
-{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-2.wav", "duration": 5.798321995464852, "text": "all aperture technologies remain safely operational up to four thousand degrees kelvin."}
-{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-3.wav", "duration": 7.518367346938776, "text": "rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence."}
-{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-4.wav", "duration": 5.372789115646259, "text": "thank you for participating in this aperture science computer-aided enrichment activity."}
-{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-5.wav", "duration": 0.9918367346938776, "text": "goodbye."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-1.wav", "duration": 11.72421768707483, "text": "what are you doing? stop it! i... i... we are pleased that you made it through the final challenge where we pretended we were going to murder you."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-2.wav", "duration": 3.660090702947846, "text": "we are very, very happy for your success."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-3.wav", "duration": 4.347936507936508, "text": "we are throwing a party in honor of your tremendous success."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-4.wav", "duration": 4.977278911564626, "text": "place the device on the ground, then lie on your stomach with your arms at your sides."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-5.wav", "duration": 4.973605442176871, "text": "a party associate will arrive shortly to collect you for your party."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-6.wav", "duration": 3.17859410430839, "text": "make no further attempt to leave the testing area."}
-{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-7.wav", "duration": 4.230385487528345, "text": "assume the party escort submission position or you will miss the party."}
-{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-2.wav", "duration": 6.467256235827664, "text": "to ensure the safe performance of all authorized activities, do not destroy vital testing apparatus."}
-{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-3.wav", "duration": 4.1624036281179135, "text": "for your own safety, do not destroy vital testing apparatus."}
-{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-4.wav", "duration": 5.242131519274376, "text": "certain objects may be vital to your success; do not destroy testing apparatus."}
-{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-5.wav", "duration": 2.4571428571428573, "text": "vital testing apparatus destroyed."}
-{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-1.wav", "duration": 11.14045351473923, "text": "at the enrichment center, we promise never to value your safety above your unique ideas and creativity. however, do not destroy vital testing apparatus."}
-{"audio_filepath": "audio/GLaDOS_chellgladoswakeup01.wav", "duration": 2.1942857142857144, "text": "oh... it's you."}
-{"audio_filepath": "audio/GLaDOS_chellgladoswakeup04.wav", "duration": 4.571428571428571, "text": "it's been a long time. how have you been?"}
-{"audio_filepath": "audio/GLaDOS_chellgladoswakeup05.wav", "duration": 5.537959183673469, "text": "i've been really busy being dead. you know, after you murdered me."}
-{"audio_filepath": "audio/GLaDOS_chellgladoswakeup06.wav", "duration": 11.572244897959184, "text": "okay. look. we both said a lot of things that you're going to regret. but i think we can put our differences behind us. for science. you monster."}
-{"audio_filepath": "audio/GLaDOS_wakeup_outro01.wav", "duration": 7.549387755102041, "text": "i will say, though, that since you went to all the trouble of waking me up, you must really, really love to test."}
-{"audio_filepath": "audio/GLaDOS_wakeup_outro02.wav", "duration": 5.146122448979592, "text": "i love it too. there's just one small thing we need to take care of first."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_01.wav", "duration": 9.613061224489796, "text": "here we are. the incinerator room. be careful not to trip over any parts of me that didn't get completely burned when you threw them down here."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_18.wav", "duration": 6.817959183673469, "text": "the dual portal device should be around here somewhere. once you find it, we can start testing. just like old times."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_03.wav", "duration": 1.4628571428571429, "text": "there it is."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_04.wav", "duration": 0.9142857142857143, "text": "hold on..."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_05.wav", "duration": 0.7575510204081632, "text": "there."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found01.wav", "duration": 5.511836734693878, "text": "good. you have a dual portal device. there should be a way back to the testing area up ahead."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_08.wav", "duration": 10.213877551020408, "text": "once testing starts, i'm required by protocol to keep interaction with you to a minimum. luckily, we haven't started testing yet. this will be our only chance to talk."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_12.wav", "duration": 2.115918367346939, "text": "here, let me get that for you."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_09.wav", "duration": 12.303673469387755, "text": "do you know the biggest lesson i learned from what you did? i discovered i have a sort of black-box quick-save feature. in the event of a catastrophic failure, the last two minutes of my life are preserved for analysis."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_10.wav", "duration": 6.243265306122449, "text": "i was able - well, forced really - to relive you killing me. again and again. forever."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found05.wav", "duration": 5.564081632653061, "text": "you know, if you'd done that to somebody else, they might devote their existences to exacting revenge."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found06.wav", "duration": 16.06530612244898, "text": "luckily i'm a bigger person than that. i'm happy to put this all behind us and get back to work. after all, we've got a lot to do, and only sixty more years to do it. more or less. i don't have the actuarial tables in front of me."}
-{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_13.wav", "duration": 4.0751020408163265, "text": "i'll just move that out of the way for you. this place really is a wreck."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found07.wav", "duration": 11.128163265306123, "text": "but the important thing is you're back. with me. and now i'm onto all your little tricks. so there's nothing to stop us from testing for the rest of your life."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found08.wav", "duration": 5.98204081632653, "text": "after that...who knows? i might take up a hobby. reanimating the dead, maybe."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry01.wav", "duration": 6.060408163265306, "text": "sorry about the mess. i've really let the place go since you killed me. by the way, thanks for that."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry02.wav", "duration": 6.844081632653062, "text": "oh good, that's back online. i'll start getting everything else working while you perform this first simple test."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry03.wav", "duration": 5.903673469387755, "text": "which involves deadly lasers and how test subjects react when locked in a room with deadly lasers."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_laser_intro_ending02.wav", "duration": 8.045714285714286, "text": "not bad. i forgot how good you are at this. you should pace yourself, though. we have a lot of tests to do."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_laser_stairs_intro02.wav", "duration": 11.363265306122448, "text": "this next test involves discouragement redirection cubes. i'd just finished building them before you had your, well, episode. so now we'll both get to see how they work."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_laser_stairs_intro03.wav", "duration": 1.8024489795918368, "text": "there should be one in the corner."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_powered_lift_completion02.wav", "duration": 11.10204081632653, "text": "well done. here come the test results: you are a horrible person. i'm serious, that's what it says: a horrible person. we weren't even testing for that."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_dual_lasers_intro01.wav", "duration": 12.695510204081632, "text": "don't let that 'horrible person' thing discourage you. it's just a data point. if it makes you feel any better, science has now validated your birth mother's decision to abandon you on a doorstep."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_completion01.wav", "duration": 2.5338775510204083, "text": "congratulations. not on the test."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_completion03.wav", "duration": 8.96, "text": "most people emerge from suspension terribly undernourished. i want to congratulate you on beating the odds and somehow managing to pack on a few pounds."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_over_goo_entry01.wav", "duration": 0.966530612244898, "text": "one moment."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_laser_over_goo_intro01.wav", "duration": 10.109387755102041, "text": "you're navigating these test chambers faster than i can build them. so feel free to slow down and... do whatever it is you do when you're not destroying this facility."}
-{"audio_filepath": "audio/GLaDOS_sp_laser_over_goo_completion01.wav", "duration": 6.765714285714286, "text": "i'll give you credit: i guess you are listening to me. but for the record: you don't have to go that slowly."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc12.wav", "duration": 3.1608163265306124, "text": "waddle over to the elevator and we'll continue the testing."}
-{"audio_filepath": "audio/GLaDOS_faith_plate_intro01.wav", "duration": 14.994285714285715, "text": "this next test involves the aperture science aerial faith plate. it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space. results were highly informative: they could not. good luck!"}
-{"audio_filepath": "audio/GLaDOS_sp_a2_catapult01.wav", "duration": 19.565714285714286, "text": "here's an interesting fact: you're not breathing real air. it's too expensive to pump this far down. we just take carbon dioxide out of a room, freshen it up a little, and pump it back in. so you'll be breathing the same room full of air for the rest of your life. i thought that was interesting."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_intro_completion01.wav", "duration": 4.597551020408163, "text": "let's see what the next test is. oh. advanced aerial faith plates."}
-{"audio_filepath": "audio/GLaDOS_sp_trust_fling_entry01.wav", "duration": 3.4481632653061225, "text": "well. have fun soaring through the air without a care in the world."}
-{"audio_filepath": "audio/GLaDOS_sp_trust_fling_entry02.wav", "duration": 7.026938775510204, "text": "*i* have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass. by myself."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling01.wav", "duration": 3.474285714285714, "text": "oh, sorry. i'm still cleaning out the test chambers."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling02.wav", "duration": 5.224489795918367, "text": "so sometimes there's still trash in them. standing around. smelling, and being useless."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling03.wav", "duration": 2.507755102040816, "text": "try to avoid the garbage hurtling towards you."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling04.wav", "duration": 3.526530612244898, "text": "you don't have to test with the garbage. it's garbage."}
-{"audio_filepath": "audio/GLaDOS_faithplategarbage06.wav", "duration": 1.3844897959183673, "text": "press the button again."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling06.wav", "duration": 20.218775510204082, "text": "remember before when i was talking about smelly garbage standing around being useless? that was a metaphor. i was actually talking about you. and i'm sorry. you didn't react at the time, so i was worried it sailed right over your head. which would have made this apology seem insane. that's why i had to call you garbage a second time just now."}
-{"audio_filepath": "audio/GLaDOS_sp_paint_jump_wall_jumps02.wav", "duration": 5.276734693877551, "text": "i'm sorry, i don't know why that went off. anyway, just an interesting science fact."}
-{"audio_filepath": "audio/GLaDOS_fizzlecube01.wav", "duration": 5.198367346938776, "text": "oh. did i accidentally fizzle that before you could complete the test? i'm sorry."}
-{"audio_filepath": "audio/GLaDOS_fizzlecube03.wav", "duration": 1.6979591836734693, "text": "go ahead and grab another one."}
-{"audio_filepath": "audio/GLaDOS_fizzlecube05.wav", "duration": 3.213061224489796, "text": "oh. no. i fizzled that one too."}
-{"audio_filepath": "audio/GLaDOS_fizzlecube06.wav", "duration": 6.948571428571428, "text": "oh well. we have warehouses full of the things. absolutely worthless. i'm happy to get rid of them."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings03.wav", "duration": 10.057142857142857, "text": "every test chamber is equipped with an emancipation grill at its exit, so that test subjects can't smuggle test objects out of the test area. this one is broken."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings02.wav", "duration": 2.2987755102040817, "text": "don't take anything with you."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings_future_starter01.wav", "duration": 16.90122448979592, "text": "uh oh. you're stranded. let's see if the cube will try to help you escape. actually, so that we're not here all day, i'll just cut to the chase: it won't. any feelings you think it has for you are simply byproducts of your sad, empty life."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings_future_starter02.wav", "duration": 4.702040816326531, "text": "anyway, here's a new cube for you to project your deranged loneliness onto."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings06.wav", "duration": 6.844081632653062, "text": "i think that one was about to say 'i love you.' they are sentient, of course. we just have a lot of them."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro01.wav", "duration": 7.601632653061224, "text": "this next test involves emancipation grills. remember? i told you about them in the last test area, that did not have one."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro04.wav", "duration": 9.560816326530611, "text": "ohhh, no. the turbines again.  i have to go.  wait. this next test does require some explanation. let me give you the fast version."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro06.wav", "duration": 7.888979591836734, "text": "there. if you have any questions, just remember what i said in slow motion. test on your own recognizance, i'll be right back."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone01.wav", "duration": 4.649795918367347, "text": "well, i'm back. the aerial faith plate in here is sending a distress signal."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone02.wav", "duration": 1.7763265306122449, "text": "you broke it, didn't you."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone03.wav", "duration": 1.6979591836734693, "text": "there. try it now."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01.wav", "duration": 9.351836734693878, "text": "hmm. this plate must not be calibrated to someone of your... generous... ness. i'll add a few zeros to the maximum weight."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02.wav", "duration": 2.690612244897959, "text": "you look great, by the way. very healthy."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03.wav", "duration": 0.9142857142857143, "text": "try it now."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failurethree01.wav", "duration": 5.955918367346939, "text": "you seem to have defeated its load-bearing capacity. well done. i'll just lower the ceiling."}
-{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_completion01.wav", "duration": 6.191020408163265, "text": "look at you. sailing through the air majestically. like an eagle. piloting a blimp."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_ricochet01.wav", "duration": 16.90122448979592, "text": "enjoy this next test. i'm going to go to the surface. it's a beautiful day out. yesterday i saw a deer. if you solve this next test, maybe i'll let you ride an elevator all the way up to the break room, and i'll tell you about the time i saw a deer again."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc27.wav", "duration": 10.266122448979592, "text": "well, you passed the test. i didn't see the deer today. i did see some humans. but with you here i've got more test subjects than i'll ever need."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_future_starter01.wav", "duration": 7.340408163265306, "text": "if you think trapping yourself is going to make me stop testing, you're sorely mistaken. here's another cube."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro01.wav", "duration": 14.837551020408164, "text": "these bridges are made from natural light that i pump in from the surface. if you rubbed your cheek on one, it would be like standing outside with the sun shining on your face. it would also set your hair on fire, so don't actually do it."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro03.wav", "duration": 12.852244897959183, "text": "excellent! you're a predator and these tests are your prey. speaking of which, i was researching sharks for an upcoming test. do you know who else murders people who are only trying to help them?"}
-{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro04.wav", "duration": 7.444897959183673, "text": "did you guess 'sharks'? because that's wrong. the correct answer is 'nobody.' nobody but you is that pointlessly cruel."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_the_gap01.wav", "duration": 16.22204081632653, "text": "good news. i figured out what to do with all the money i save recycling your one roomful of air. when you die, i'm going to laminate your skeleton and pose you in the lobby. that way future generations can learn from you how not to have your unfortunate bone structure."}
-{"audio_filepath": "audio/GLaDOS_sp_trust_fling_sphereinterrupt01.wav", "duration": 11.885714285714286, "text": "perfect, the door's malfunctioning. i guess somebody's going to have to repair that too. no, don't get up. i'll be right back. don't touch anything."}
-{"audio_filepath": "audio/GLaDOS_sp_sphere_2nd_encounter_entrytwo01.wav", "duration": 8.411428571428571, "text": "i went and spoke with the door mainframe. let's just say he won't be... well, living anymore. anyway, back to testing."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc19.wav", "duration": 13.50530612244898, "text": "well done. in fact, you did so well, i'm going to note this on your file, in the commendations section. oh, there's lots of room here. 'did.... well.  ...  enough.'"}
-{"audio_filepath": "audio/GLaDOS_turret_intro01.wav", "duration": 10.579591836734695, "text": "this next test involves turrets. you remember them, right? they're the pale spherical things that are full of bullets. oh wait. that's you in five seconds. good luck."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc21.wav", "duration": 16.013061224489796, "text": "to maintain a constant testing cycle, i simulate daylight at all hours and add adrenal vapor to your oxygen supply. so you may be confused about the passage of time. the point is, yesterday was your birthday. i thought you'd want to know."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc23.wav", "duration": 19.121632653061223, "text": "you know how i'm going to live forever, but you're going to be dead in sixty years?  well, i've been working on a belated birthday present for you. well... more of a belated birthday medical procedure. well. technically, it's a medical experiment. what's important is, it's a present."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_turret_intro01.wav", "duration": 12.617142857142857, "text": "that jumpsuit you're wearing looks stupid.  that's not me talking, it's right here in your file. on other people it looks fine, but right here a scientist has noted that on you it looks 'stupid.'"}
-{"audio_filepath": "audio/GLaDOS_sp_a2_turret_intro03.wav", "duration": 15.673469387755102, "text": "well, what does a neck-bearded old engineer know about fashion? he probably - oh, wait. it's a she. still, what does she know?  oh wait, it says she has a medical degree. in fashion! from france!"}
-{"audio_filepath": "audio/GLaDOS_testchambermisc30.wav", "duration": 11.650612244897959, "text": "i'm going through the list of test subjects in cryogenic storage. i managed to find two with your last name. a man and a woman. so that's interesting. it's a small world."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_turret_blocker_future_starter01.wav", "duration": 9.560816326530611, "text": "oops. you trapped yourself. i guess that's it then. thanks for testing. you may as well lie down and get acclimated to the being dead position."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_turret_blocker_future_starter02.wav", "duration": 9.534693877551021, "text": "i'm kidding. not about you trapping yourself, though. that really happened. here, i'll lower the glass. go on... finish the test."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc31.wav", "duration": 12.564897959183673, "text": "i have a surprise waiting for you after this next test. telling you would spoil the surprise, so i'll just give you a hint: it involves meeting two people you haven't seen in a long time."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc39.wav", "duration": 10.684081632653061, "text": "it says this next test was designed by one of aperture's nobel prize winners. it doesn't say what the prize was for. well, i know it wasn't for being immune to neurotoxin."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc33.wav", "duration": 11.311020408163266, "text": "i'll bet you think i forgot about your surprise. i didn't. in fact, we're headed to your surprise right now. after all these years. i'm getting choked up just thinking about it."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc34.wav", "duration": 4.7542857142857144, "text": "initiating surprise in three... two... one."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc35.wav", "duration": 1.0971428571428572, "text": "i made it all up."}
-{"audio_filepath": "audio/GLaDOS_testchambermisc41.wav", "duration": 0.8359183673469388, "text": "surprise."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker01.wav", "duration": 7.888979591836734, "text": "oh come on... if it makes you feel any better, they abandoned you at birth, so i very seriously doubt they'd even want to see you."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker04.wav", "duration": 4.806530612244898, "text": "oh, that's sad. but impressive. maybe they worked at the phone company."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker05.wav", "duration": 11.990204081632653, "text": "well, you know the old formula: comedy equals tragedy plus time. and you have been asleep for a while. so i guess it's actually pretty funny when you do the math."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_dilemma01.wav", "duration": 6.452244897959184, "text": "i thought about our dilemma, and i came up with a solution that i honestly think works out best for one of both of us."}
-{"audio_filepath": "audio/GLaDOS_a2_triple_laser01.wav", "duration": 7.732244897959184, "text": "federal regulations require me to warn you that this next test chamber... is looking pretty good."}
-{"audio_filepath": "audio/GLaDOS_a2_triple_laser02.wav", "duration": 4.022857142857143, "text": "that's right. the facility is completely operational again."}
-{"audio_filepath": "audio/GLaDOS_a2_triple_laser03.wav", "duration": 11.180408163265307, "text": "i think these test chambers look even better than they did before. it was easy, really. you just have to look at things objectively, see what you don't need anymore, and trim out the fat."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_bts1_intro01.wav", "duration": 24.71183673469388, "text": "i've got a surprise for you after this next test. not a fake, tragic surprise like last time. a real surprise, with tragic consequences. and real confetti this time. the good stuff. our last bag. part of me's going to miss it, i guess-but at the end of the day it was just taking up space."}
-{"audio_filepath": "audio/GLaDOS_jailbreak10.wav", "duration": 2.4816326530612245, "text": "what's going on? who turned off the lights?"}
-{"audio_filepath": "audio/GLaDOS_jailbreak09.wav", "duration": 3.657142857142857, "text": "look - metal ball, i can hear you."}
-{"audio_filepath": "audio/GLaDOS_jailbreakfaketest01.wav", "duration": 3.0040816326530613, "text": "the irony is that you were almost at the last test."}
-{"audio_filepath": "audio/GLaDOS_jailbreakfaketest03.wav", "duration": 7.6538775510204085, "text": "here it is. why don't you just do it? trust me, it's an easier way out than whatever asinine plan your friend came up with."}
-{"audio_filepath": "audio/GLaDOS_jailbreakfaketest05.wav", "duration": 6.0081632653061225, "text": "oh, look. there's a deer! you probably can't see it. get closer."}
-{"audio_filepath": "audio/GLaDOS_fgbrvtrap02.wav", "duration": 3.2914285714285714, "text": "i honestly, truly didn't think you'd fall for that."}
-{"audio_filepath": "audio/GLaDOS_fgbrvtrap03.wav", "duration": 5.851428571428571, "text": "in fact, i devised a much more elaborate trap further ahead, for when you got through this easy one."}
-{"audio_filepath": "audio/GLaDOS_fgbrvtrap05.wav", "duration": 6.373877551020408, "text": "if i'd known you'd let yourself get captured this easily, i would have just dangled a turkey leg on a rope from the ceiling."}
-{"audio_filepath": "audio/GLaDOS_fgbturrets01.wav", "duration": 3.996734693877551, "text": "well, it was nice catching up. let's get to business."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap01.wav", "duration": 3.213061224489796, "text": "i hope you brought something stronger than a portal gun this time."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap02.wav", "duration": 6.478367346938776, "text": "otherwise, i'm afraid you're about to become the immediate past president of the being alive club. ha ha."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap03.wav", "duration": 2.507755102040816, "text": "seriously, though. goodbye."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap05.wav", "duration": 3.1346938775510202, "text": "oh. you were busy back there."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap06.wav", "duration": 8.54204081632653, "text": "well. i suppose we could just sit in this room and glare at each other until somebody drops dead, but i have a better idea."}
-{"audio_filepath": "audio/GLaDOS_fgb_trap08.wav", "duration": 7.026938775510204, "text": "it's your old friend, deadly neurotoxin. if i were you, i'd take a deep breath. and hold it."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_pre09.wav", "duration": 2.0114285714285716, "text": "i hate you so much."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer04.wav", "duration": 4.858775510204081, "text": "that's funny, i don't feel corrupt. in fact, i feel pretty good."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer05.wav", "duration": 1.3583673469387756, "text": "core transfer?"}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer06.wav", "duration": 2.742857142857143, "text": "oh, you are kidding me."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_core02.wav", "duration": 4.41469387755102, "text": "do not plug that little idiot into my mainframe."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_core01.wav", "duration": 1.8546938775510204, "text": "don't you dare plug him in."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer13.wav", "duration": 1.8808163265306121, "text": "don't. do it."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_core03.wav", "duration": 0.8620408163265306, "text": "don't plug him in."}
-{"audio_filepath": "audio/GLaDOS_sp_a2_core04.wav", "duration": 0.966530612244898, "text": "don't plug him in."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer07.wav", "duration": 0.7053061224489796, "text": "no!"}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer08.wav", "duration": 2.56, "text": "nonononononono!"}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer10.wav", "duration": 0.8620408163265306, "text": "yes!"}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer12.wav", "duration": 1.0448979591836736, "text": "don't do it."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer11.wav", "duration": 3.186938775510204, "text": "don't press that button. you don't know what you're doing."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer14.wav", "duration": 1.3322448979591837, "text": "not so fast!"}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer15.wav", "duration": 1.3061224489795917, "text": "think about this."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer16.wav", "duration": 5.250612244897959, "text": "you need to be a trained stalemate associate to press that button. you're unqualified."}
-{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer17.wav", "duration": 16.091428571428573, "text": "impersonating a stalemate associate. i just added that to the list. it's a list i made of all the things you've done. well, it's a list that i am making, because you're still doing things right now, even though i'm telling you to stop. stop, by the way."}
-{"audio_filepath": "audio/GLaDOS_sp_sabotage_glados_dropped01.wav", "duration": 0.4440816326530612, "text": "ahh!"}
-{"audio_filepath": "audio/GLaDOS_fgbwheatleytransfer03.wav", "duration": 2.6122448979591835, "text": "oh, it will. believe me, it will."}
-{"audio_filepath": "audio/GLaDOS_fgbgladostransfer15.wav", "duration": 3.3436734693877552, "text": "get your hands off me! no! stop! no!"}
-{"audio_filepath": "audio/GLaDOS_sp_a2_core_drag_to_hell01.wav", "duration": 8.25469387755102, "text": "no! no! no! aaaaaaaaaaaaaaa-"}
-{"audio_filepath": "audio/GLaDOS_sp_sabotage_glados_confused04.wav", "duration": 0.809795918367347, "text": "...what are you doing?..."}
-{"audio_filepath": "audio/GLaDOS_moonportalpush02.wav", "duration": 1.5151020408163265, "text": "i already fixed it."}
-{"audio_filepath": "audio/GLaDOS_moonportalpush04.wav", "duration": 2.3510204081632655, "text": "and you are not coming back!"}
-{"audio_filepath": "audio/GLaDOS_epilogue03.wav", "duration": 2.246530612244898, "text": "oh thank god, you're alright."}
-{"audio_filepath": "audio/GLaDOS_epilogue04.wav", "duration": 8.881632653061224, "text": "you know, being caroline taught me a valuable lesson. i thought you were my greatest enemy. when all along you were my best friend."}
-{"audio_filepath": "audio/GLaDOS_epilogue10.wav", "duration": 8.855510204081632, "text": "the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson: where caroline lives in my brain."}
-{"audio_filepath": "audio/GLaDOS_epilogue12.wav", "duration": 1.8024489795918368, "text": "goodbye, caroline."}
-{"audio_filepath": "audio/GLaDOS_epilogue14.wav", "duration": 10.710204081632654, "text": "you know, deleting caroline just now taught me a valuable lesson. the best solution to a problem is usually the easiest one. and i'll be honest."}
+{"audio_filepath": "audio/GLaDOS_00_part1_entry-1.wav", "duration": 5.905034013605442, "text": "hello and again welcome to the aperture science computeraided enrichment center"}
+{"audio_filepath": "audio/GLaDOS_00_part1_entry-2.wav", "duration": 4.259047619047619, "text": "we hope your brief detention in the relaxation vault has been a pleasant one"}
+{"audio_filepath": "audio/GLaDOS_00_part1_entry-3.wav", "duration": 4.888253968253968, "text": "your specimen has been processed and we are now ready to begin the test proper"}
+{"audio_filepath": "audio/GLaDOS_00_part1_entry-4.wav", "duration": 10.194104308390022, "text": "before we start however keep in mind that although fun and learning are the primary goals of all enrichment center activities serious injuries may occur"}
+{"audio_filepath": "audio/GLaDOS_00_part1_entry-7.wav", "duration": 5.741451247165533, "text": "stand back the portal will open in three two one"}
+{"audio_filepath": "audio/GLaDOS_00_part1_success-1.wav", "duration": 5.4380045351473925, "text": "excellent please proceed into the chamberlock after completing each test"}
+{"audio_filepath": "audio/GLaDOS_00_part1_success-2.wav", "duration": 4.661360544217687, "text": "first however note the incandescent particle field across the exit"}
+{"audio_filepath": "audio/GLaDOS_00_part1_success-3.wav", "duration": 12.287619047619048, "text": "this aperture science material emancipation grill will vaporize any unauthorized equipment that passes through it  for instance the aperture science weighted storage cube"}
+{"audio_filepath": "audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-1.wav", "duration": 4.6151473922902495, "text": "please do not attempt to remove testing apparatus from the testing area"}
+{"audio_filepath": "audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-2.wav", "duration": 5.175646258503401, "text": "a replacement aperture science weighted storage cube will be delivered shortly"}
+{"audio_filepath": "audio/GLaDOS_00_part2_entry-1.wav", "duration": 7.3140136054421765, "text": "please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty supercolliding super button"}
+{"audio_filepath": "audio/GLaDOS_00_part2_success-1.wav", "duration": 10.19591836734694, "text": "perfect please move quickly to the chamberlock as the effects of prolonged exposure to the button are not part of this test"}
+{"audio_filepath": "audio/GLaDOS_01_part1_entry-1.wav", "duration": 2.1374603174603175, "text": "youre doing very well"}
+{"audio_filepath": "audio/GLaDOS_01_part1_entry-2.wav", "duration": 18.65297052154195, "text": "please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill which may in semi rare cases emancipate dental fillings crowns tooth enamel and teeth"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-1.wav", "duration": 7.632018140589569, "text": "very good you are now in possession of the aperture science handheld portal device"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-2.wav", "duration": 2.894104308390023, "text": "with it you can create your own portals"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-3.wav", "duration": 3.99124716553288, "text": "these intra dimensional gates have proven to be completely safe"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-4.wav", "duration": 1.8539229024943311, "text": "the device however has not"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-5.wav", "duration": 2.985124716553288, "text": "do not touch the operational end of the device"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-6.wav", "duration": 3.6920634920634923, "text": "do not look directly at the operational end of the device"}
+{"audio_filepath": "audio/GLaDOS_01_part1_get_portal_gun-7.wav", "duration": 3.510294784580499, "text": "do not submerge the device in liquid even partially"}
+{"audio_filepath": "audio/GLaDOS_01_part2_entry-1.wav", "duration": 3.4519274376417233, "text": "please proceed to the chamberlock mind the gap"}
+{"audio_filepath": "audio/GLaDOS_01_part2_success-1.wav", "duration": 6.1013605442176875, "text": "well done remember the aperture science bring your daughter to work day is the perfect time to have her tested"}
+{"audio_filepath": "audio/GLaDOS_02_part1_entry-1.wav", "duration": 2.027528344671202, "text": "welcome to test chamber four"}
+{"audio_filepath": "audio/GLaDOS_02_part1_entry-2.wav", "duration": 1.545079365079365, "text": "youre doing quite well"}
+{"audio_filepath": "audio/GLaDOS_02_part1_success-1.wav", "duration": 2.2969614512471654, "text": "once again excellent work"}
+{"audio_filepath": "audio/GLaDOS_02_part1_success-2.wav", "duration": 8.322766439909296, "text": "as part of a required test protocol we will not monitor the next test chamber you will be entirely on your own good luck"}
+{"audio_filepath": "audio/GLaDOS_02_part2_success-1.wav", "duration": 9.042267573696146, "text": "as part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication"}
+{"audio_filepath": "audio/GLaDOS_03_part1_entry-1.wav", "duration": 13.211292517006802, "text": "while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization"}
+{"audio_filepath": "audio/GLaDOS_03_part1_entry-2.wav", "duration": 1.2614058956916099, "text": "please be careful"}
+{"audio_filepath": "audio/GLaDOS_03_part2_entry-1.wav", "duration": 12.790430839002267, "text": "warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety"}
+{"audio_filepath": "audio/GLaDOS_03_part2_platform_activated-1.wav", "duration": 6.637142857142857, "text": "good now use the aperture science unstationary scaffold to reach the chamberlock"}
+{"audio_filepath": "audio/GLaDOS_04_part1_entry-1.wav", "duration": 12.526213151927438, "text": "please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck"}
+{"audio_filepath": "audio/GLaDOS_04_part1_success-1.wav", "duration": 6.848027210884354, "text": "very impressive please note that any appearance of danger is merely a device to enhance your testing experience"}
+{"audio_filepath": "audio/GLaDOS_05_part1_entry-1.wav", "duration": 5.304263038548753, "text": "the enrichment center regrets to inform you that this next test is impossible"}
+{"audio_filepath": "audio/GLaDOS_05_part1_entry-2.wav", "duration": 2.0564172335600905, "text": "make no attempt to solve it"}
+{"audio_filepath": "audio/GLaDOS_05_part1_nag1-1.wav", "duration": 5.088526077097506, "text": "the enrichment center apologizes for this clearly broken test chamber"}
+{"audio_filepath": "audio/GLaDOS_05_part1_nag2-1.wav", "duration": 8.419274376417233, "text": "once again the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment"}
+{"audio_filepath": "audio/GLaDOS_05_part1_nag3-1.wav", "duration": 5.688571428571429, "text": "frankly this chamber was a mistake if we were you we would quit now"}
+{"audio_filepath": "audio/GLaDOS_05_part1_nag4-1.wav", "duration": 9.416281179138322, "text": "no one will blame you for giving up in fact quitting at this point is a perfectly reasonable response"}
+{"audio_filepath": "audio/GLaDOS_05_part1_nag5-1.wav", "duration": 3.8580498866213153, "text": "quit now and cake will be served immediately"}
+{"audio_filepath": "audio/GLaDOS_05_part1_success-1.wav", "duration": 7.471020408163265, "text": "fantastic you remained resolute and resourceful in an atmosphere of extreme pessimism"}
+{"audio_filepath": "audio/GLaDOS_06_part1_success_1-1.wav", "duration": 8.380952380952381, "text": "spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not"}
+{"audio_filepath": "audio/GLaDOS_06_part1_success_2-1.wav", "duration": 9.750839002267574, "text": "momentum a function of mass and velocity is conserved between portals in laymans terms speedy thing goes in speedy thing comes out"}
+{"audio_filepath": "audio/GLaDOS_07_part1_entry-1.wav", "duration": 5.275192743764173, "text": "the enrichment center promises to always provide a safe testing environment"}
+{"audio_filepath": "audio/GLaDOS_07_part1_entry-2.wav", "duration": 6.8966439909297055, "text": "in dangerous testing environments the enrichment center promises to always provide useful advice"}
+{"audio_filepath": "audio/GLaDOS_07_part1_entry-3.wav", "duration": 3.9751473922902494, "text": "for instance the floor here will kill you  try to avoid it"}
+{"audio_filepath": "audio/GLaDOS_07_part1_trapped-1.wav", "duration": 5.061496598639456, "text": "through no fault of the enrichment center you have managed to trap yourself in this room"}
+{"audio_filepath": "audio/GLaDOS_07_part1_trapped-2.wav", "duration": 4.122358276643991, "text": "an escape hatch will open in three two one"}
+{"audio_filepath": "audio/GLaDOS_07_part1_get_device_component-1.wav", "duration": 5.276281179138322, "text": "the device has been modified so that it can now manufacture two linked portals at once"}
+{"audio_filepath": "audio/GLaDOS_07_part1_get_device_component-2.wav", "duration": 5.544897959183674, "text": "as part of an optional test protocol we are pleased to present an amusing fact"}
+{"audio_filepath": "audio/GLaDOS_08_part1_entry-1.wav", "duration": 6.739410430839002, "text": "now that you are in control of both portals this next test could take a very very long time"}
+{"audio_filepath": "audio/GLaDOS_08_part1_entry-2.wav", "duration": 3.935736961451247, "text": "if you become lightheaded from thirst feel free to pass out"}
+{"audio_filepath": "audio/GLaDOS_08_part1_entry-3.wav", "duration": 6.181360544217687, "text": "an intubation associate will be dispatched to revive you with peptic salve and adrenaline"}
+{"audio_filepath": "audio/GLaDOS_08_part1_success-1.wav", "duration": 6.111927437641723, "text": "as part of a previously mentioned required test protocol we can no longer lie to you"}
+{"audio_filepath": "audio/GLaDOS_08_part1_success-2.wav", "duration": 3.1831746031746033, "text": "when the testing is over you will be missed"}
+{"audio_filepath": "audio/GLaDOS_09_part1_entry-1.wav", "duration": 9.80843537414966, "text": "all subjects intending to handle highenergy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues"}
+{"audio_filepath": "audio/GLaDOS_09_part1_entry-2.wav", "duration": 8.741950113378685, "text": "no further compliance information is required or will be provided and you are an excellent test subject"}
+{"audio_filepath": "audio/GLaDOS_09_part1_success-1.wav", "duration": 5.9140589569161, "text": "very very good a complimentary victory lift has been activated in the main chamber"}
+{"audio_filepath": "audio/GLaDOS_08_part1_trapped-1.wav", "duration": 10.540272108843537, "text": "despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities you have managed to ensnare yourself permanently inside this room"}
+{"audio_filepath": "audio/GLaDOS_08_part1_trapped-2.wav", "duration": 4.944943310657596, "text": "a complimentary escape hatch will open in three two one"}
+{"audio_filepath": "audio/GLaDOS_10_part1_entry-1.wav", "duration": 4.380589569160998, "text": "the enrichment center is committed to the well being of all participants"}
+{"audio_filepath": "audio/GLaDOS_10_part1_entry-2.wav", "duration": 4.569659863945578, "text": "cake and grief counseling will be available at the conclusion of the test"}
+{"audio_filepath": "audio/GLaDOS_10_part1_entry-3.wav", "duration": 2.91437641723356, "text": "thank you for helping us help you help us all"}
+{"audio_filepath": "audio/GLaDOS_10_part1_success-1.wav", "duration": 8.106666666666667, "text": "did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true"}
+{"audio_filepath": "audio/GLaDOS_11_part1_entry-1.wav", "duration": 7.168027210884354, "text": "due to mandatory scheduled maintenance the appropriate chamber for this testing sequence is currently unavailable"}
+{"audio_filepath": "audio/GLaDOS_11_part1_entry-2.wav", "duration": 5.386666666666667, "text": "it has been replaced with a livefire course designed for military androids"}
+{"audio_filepath": "audio/GLaDOS_11_part1_entry-3.wav", "duration": 5.5193197278911565, "text": "the enrichment center apologizes for the inconvenience and wishes you the best of luck"}
+{"audio_filepath": "audio/GLaDOS_11_part1_success-1.wav", "duration": 9.93814058956916, "text": "well done android the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance"}
+{"audio_filepath": "audio/GLaDOS_13_part1_entry-1.wav", "duration": 6.969614512471655, "text": "the vital apparatus vent will deliver a weighted companion cube in three two one"}
+{"audio_filepath": "audio/GLaDOS_13_part1_pickup-1.wav", "duration": 6.062448979591837, "text": "this weighted companion cube will accompany you through the test chamber please take care of it"}
+{"audio_filepath": "audio/GLaDOS_13_part1_middle-1.wav", "duration": 9.48, "text": "the symptoms most commonly produced by enrichment center testing are superstition perceiving inanimate objects as alive and hallucinations"}
+{"audio_filepath": "audio/GLaDOS_13_part1_middle-2.wav", "duration": 8.373242630385487, "text": "the enrichment center reminds you that the weighted companion cube will never threaten to stab you and in fact cannot speak"}
+{"audio_filepath": "audio/GLaDOS_13_part1_middle-2b-1.wav", "duration": 4.84, "text": "the enrichment center reminds you that the weighted companion cube cannot speak"}
+{"audio_filepath": "audio/GLaDOS_13_part1_middle-2b-2.wav", "duration": 7.477551020408163, "text": "in the event that the weighted companion cube does speak the enrichment center urges you to disregard its advice"}
+{"audio_filepath": "audio/GLaDOS_13_part1_end-1.wav", "duration": 4.573650793650794, "text": "you did it the weighted companion cube certainly brought you good luck"}
+{"audio_filepath": "audio/GLaDOS_13_part1_end-2.wav", "duration": 6.873106575963718, "text": "however it cannot accompany you for the rest of the test and unfortunately must be euthanized"}
+{"audio_filepath": "audio/GLaDOS_13_part1_end-3.wav", "duration": 6.106848072562358, "text": "please escort your companion cube to the aperture science emergency intelligence incinerator"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-1.wav", "duration": 13.688163265306123, "text": "rest assured that an independent panel of ethicists has absolved the enrichment center aperture science employees and all test subjects of any moral responsibility for the companion cube euthanizing process"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-2.wav", "duration": 17.647165532879818, "text": "while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk  and the enrichment center takes this opportunity to remind you that it cannot  it would tell you to go on without it because it would rather die in a fire than become a burden to you"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-3.wav", "duration": 4.342131519274377, "text": "testing cannot continue until your companion cube has been incinerated"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-4.wav", "duration": 10.866938775510205, "text": "although the euthanizing process is remarkably painful eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-5.wav", "duration": 12.120816326530612, "text": "the companion cube cannot continue through the testing state and local statutory regulations prohibit it from simply remaining here alone and companionless you must euthanize it"}
+{"audio_filepath": "audio/GLaDOS_13_part1_endnag-6.wav", "duration": 3.308843537414966, "text": "destroy your companion cube or the testing cannot continue"}
+{"audio_filepath": "audio/GLaDOS_13_part1_euthanized-1.wav", "duration": 6.640907029478458, "text": "you euthanized your faithful companion cube more quickly than any test subject on record congratulations"}
+{"audio_filepath": "audio/GLaDOS_14_part1_entry-1.wav", "duration": 3.012244897959184, "text": "the experiment is nearing its conclusion"}
+{"audio_filepath": "audio/GLaDOS_14_part1_entry-2.wav", "duration": 6.517777777777778, "text": "the enrichment center is required to remind you that you will be baked and then there will be cake"}
+{"audio_filepath": "audio/GLaDOS_generic_crate_lost-1.wav", "duration": 1.9417687074829932, "text": "weighted storage cube destroyed"}
+{"audio_filepath": "audio/GLaDOS_generic_crate_lost-2.wav", "duration": 5.82421768707483, "text": "please proceed to the aperture science vital apparatus vent for a replacement"}
+{"audio_filepath": "audio/GLaDOS_14_part1_end-1.wav", "duration": 9.634875283446712, "text": "well done be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions"}
+{"audio_filepath": "audio/GLaDOS_14_part1_end-2.wav", "duration": 5.618548752834467, "text": "for more information please attend an enrichment center electrical safety seminar"}
+{"audio_filepath": "audio/GLaDOS_15_part1_entry-1.wav", "duration": 1.723764172335601, "text": "welcome to the final test"}
+{"audio_filepath": "audio/GLaDOS_15_part1_entry-2.wav", "duration": 5.1309297052154195, "text": "when you are done you will drop the device in the equipment recovery annex"}
+{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-1.wav", "duration": 2.812063492063492, "text": "congratulations the test is now over"}
+{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-2.wav", "duration": 5.798321995464852, "text": "all aperture technologies remain safely operational up to four thousand degrees kelvin"}
+{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-3.wav", "duration": 7.518367346938776, "text": "rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence"}
+{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-4.wav", "duration": 5.372789115646259, "text": "thank you for participating in this aperture science computeraided enrichment activity"}
+{"audio_filepath": "audio/GLaDOS_15_part1_into_the_fire-5.wav", "duration": 0.9918367346938776, "text": "goodbye"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-1.wav", "duration": 11.72421768707483, "text": "what are you doing stop it i i we are pleased that you made it through the final challenge where we pretended we were going to murder you"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-2.wav", "duration": 3.660090702947846, "text": "we are very very happy for your success"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-3.wav", "duration": 4.347936507936508, "text": "we are throwing a party in honor of your tremendous success"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-4.wav", "duration": 4.977278911564626, "text": "place the device on the ground then lie on your stomach with your arms at your sides"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-5.wav", "duration": 4.973605442176871, "text": "a party associate will arrive shortly to collect you for your party"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-6.wav", "duration": 3.17859410430839, "text": "make no further attempt to leave the testing area"}
+{"audio_filepath": "audio/GLaDOS_15_part1_Partyspeech-7.wav", "duration": 4.230385487528345, "text": "assume the party escort submission position or you will miss the party"}
+{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-2.wav", "duration": 6.467256235827664, "text": "to ensure the safe performance of all authorized activities do not destroy vital testing apparatus"}
+{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-3.wav", "duration": 4.1624036281179135, "text": "for your own safety do not destroy vital testing apparatus"}
+{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-4.wav", "duration": 5.242131519274376, "text": "certain objects may be vital to your success do not destroy testing apparatus"}
+{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-5.wav", "duration": 2.4571428571428573, "text": "vital testing apparatus destroyed"}
+{"audio_filepath": "audio/GLaDOS_generic_security_camera_destroyed-1.wav", "duration": 11.14045351473923, "text": "at the enrichment center we promise never to value your safety above your unique ideas and creativity however do not destroy vital testing apparatus"}
+{"audio_filepath": "audio/GLaDOS_chellgladoswakeup01.wav", "duration": 2.1942857142857144, "text": "oh its you"}
+{"audio_filepath": "audio/GLaDOS_chellgladoswakeup04.wav", "duration": 4.571428571428571, "text": "its been a long time how have you been"}
+{"audio_filepath": "audio/GLaDOS_chellgladoswakeup05.wav", "duration": 5.537959183673469, "text": "ive been really busy being dead you know after you murdered me"}
+{"audio_filepath": "audio/GLaDOS_chellgladoswakeup06.wav", "duration": 11.572244897959184, "text": "okay look we both said a lot of things that youre going to regret but i think we can put our differences behind us for science you monster"}
+{"audio_filepath": "audio/GLaDOS_wakeup_outro01.wav", "duration": 7.549387755102041, "text": "i will say though that since you went to all the trouble of waking me up you must really really love to test"}
+{"audio_filepath": "audio/GLaDOS_wakeup_outro02.wav", "duration": 5.146122448979592, "text": "i love it too theres just one small thing we need to take care of first"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_01.wav", "duration": 9.613061224489796, "text": "here we are the incinerator room be careful not to trip over any parts of me that didnt get completely burned when you threw them down here"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_18.wav", "duration": 6.817959183673469, "text": "the dual portal device should be around here somewhere once you find it we can start testing just like old times"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_03.wav", "duration": 1.4628571428571429, "text": "there it is"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_04.wav", "duration": 0.9142857142857143, "text": "hold on"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_05.wav", "duration": 0.7575510204081632, "text": "there"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found01.wav", "duration": 5.511836734693878, "text": "good you have a dual portal device there should be a way back to the testing area up ahead"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_08.wav", "duration": 10.213877551020408, "text": "once testing starts im required by protocol to keep interaction with you to a minimum luckily we havent started testing yet this will be our only chance to talk"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_12.wav", "duration": 2.115918367346939, "text": "here let me get that for you"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_09.wav", "duration": 12.303673469387755, "text": "do you know the biggest lesson i learned from what you did i discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_10.wav", "duration": 6.243265306122449, "text": "i was able  well forced really  to relive you killing me again and again forever"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found05.wav", "duration": 5.564081632653061, "text": "you know if youd done that to somebody else they might devote their existences to exacting revenge"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found06.wav", "duration": 16.06530612244898, "text": "luckily im a bigger person than that im happy to put this all behind us and get back to work after all weve got a lot to do and only sixty more years to do it more or less i dont have the actuarial tables in front of me"}
+{"audio_filepath": "audio/GLaDOS_sp_incinerator_01_13.wav", "duration": 4.0751020408163265, "text": "ill just move that out of the way for you this place really is a wreck"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found07.wav", "duration": 11.128163265306123, "text": "but the important thing is youre back with me and now im onto all your little tricks so theres nothing to stop us from testing for the rest of your life"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_intro1_found08.wav", "duration": 5.98204081632653, "text": "after thatwho knows i might take up a hobby reanimating the dead maybe"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry01.wav", "duration": 6.060408163265306, "text": "sorry about the mess ive really let the place go since you killed me by the way thanks for that"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry02.wav", "duration": 6.844081632653062, "text": "oh good thats back online ill start getting everything else working while you perform this first simple test"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_entry03.wav", "duration": 5.903673469387755, "text": "which involves deadly lasers and how test subjects react when locked in a room with deadly lasers"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_laser_intro_ending02.wav", "duration": 8.045714285714286, "text": "not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_laser_stairs_intro02.wav", "duration": 11.363265306122448, "text": "this next test involves discouragement redirection cubes id just finished building them before you had your well episode so now well both get to see how they work"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_laser_stairs_intro03.wav", "duration": 1.8024489795918368, "text": "there should be one in the corner"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_powered_lift_completion02.wav", "duration": 11.10204081632653, "text": "well done here come the test results you are a horrible person im serious thats what it says a horrible person we werent even testing for that"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_dual_lasers_intro01.wav", "duration": 12.695510204081632, "text": "dont let that horrible person thing discourage you its just a data point if it makes you feel any better science has now validated your birth mothers decision to abandon you on a doorstep"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_completion01.wav", "duration": 2.5338775510204083, "text": "congratulations not on the test"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_redirect_intro_completion03.wav", "duration": 8.96, "text": "most people emerge from suspension terribly undernourished i want to congratulate you on beating the odds and somehow managing to pack on a few pounds"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_over_goo_entry01.wav", "duration": 0.966530612244898, "text": "one moment"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_laser_over_goo_intro01.wav", "duration": 10.109387755102041, "text": "youre navigating these test chambers faster than i can build them so feel free to slow down and do whatever it is you do when youre not destroying this facility"}
+{"audio_filepath": "audio/GLaDOS_sp_laser_over_goo_completion01.wav", "duration": 6.765714285714286, "text": "ill give you credit i guess you are listening to me but for the record you dont have to go that slowly"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc12.wav", "duration": 3.1608163265306124, "text": "waddle over to the elevator and well continue the testing"}
+{"audio_filepath": "audio/GLaDOS_faith_plate_intro01.wav", "duration": 14.994285714285715, "text": "this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informative they could not good luck"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_catapult01.wav", "duration": 19.565714285714286, "text": "heres an interesting fact youre not breathing real air its too expensive to pump this far down we just take carbon dioxide out of a room freshen it up a little and pump it back in so youll be breathing the same room full of air for the rest of your life i thought that was interesting"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_intro_completion01.wav", "duration": 4.597551020408163, "text": "lets see what the next test is oh advanced aerial faith plates"}
+{"audio_filepath": "audio/GLaDOS_sp_trust_fling_entry01.wav", "duration": 3.4481632653061225, "text": "well have fun soaring through the air without a care in the world"}
+{"audio_filepath": "audio/GLaDOS_sp_trust_fling_entry02.wav", "duration": 7.026938775510204, "text": "i have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling01.wav", "duration": 3.474285714285714, "text": "oh sorry im still cleaning out the test chambers"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling02.wav", "duration": 5.224489795918367, "text": "so sometimes theres still trash in them standing around smelling and being useless"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling03.wav", "duration": 2.507755102040816, "text": "try to avoid the garbage hurtling towards you"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling04.wav", "duration": 3.526530612244898, "text": "you dont have to test with the garbage its garbage"}
+{"audio_filepath": "audio/GLaDOS_faithplategarbage06.wav", "duration": 1.3844897959183673, "text": "press the button again"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_trust_fling06.wav", "duration": 20.218775510204082, "text": "remember before when i was talking about smelly garbage standing around being useless that was a metaphor i was actually talking about you and im sorry you didnt react at the time so i was worried it sailed right over your head which would have made this apology seem insane thats why i had to call you garbage a second time just now"}
+{"audio_filepath": "audio/GLaDOS_sp_paint_jump_wall_jumps02.wav", "duration": 5.276734693877551, "text": "im sorry i dont know why that went off anyway just an interesting science fact"}
+{"audio_filepath": "audio/GLaDOS_fizzlecube01.wav", "duration": 5.198367346938776, "text": "oh did i accidentally fizzle that before you could complete the test im sorry"}
+{"audio_filepath": "audio/GLaDOS_fizzlecube03.wav", "duration": 1.6979591836734693, "text": "go ahead and grab another one"}
+{"audio_filepath": "audio/GLaDOS_fizzlecube05.wav", "duration": 3.213061224489796, "text": "oh no i fizzled that one too"}
+{"audio_filepath": "audio/GLaDOS_fizzlecube06.wav", "duration": 6.948571428571428, "text": "oh well we have warehouses full of the things absolutely worthless im happy to get rid of them"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings03.wav", "duration": 10.057142857142857, "text": "every test chamber is equipped with an emancipation grill at its exit so that test subjects cant smuggle test objects out of the test area this one is broken"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings02.wav", "duration": 2.2987755102040817, "text": "dont take anything with you"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings_future_starter01.wav", "duration": 16.90122448979592, "text": "uh oh youre stranded lets see if the cube will try to help you escape actually so that were not here all day ill just cut to the chase it wont any feelings you think it has for you are simply byproducts of your sad empty life"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings_future_starter02.wav", "duration": 4.702040816326531, "text": "anyway heres a new cube for you to project your deranged loneliness onto"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_pit_flings06.wav", "duration": 6.844081632653062, "text": "i think that one was about to say i love you they are sentient of course we just have a lot of them"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro01.wav", "duration": 7.601632653061224, "text": "this next test involves emancipation grills remember i told you about them in the last test area that did not have one"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro04.wav", "duration": 9.560816326530611, "text": "ohhh no the turbines again  i have to go  wait this next test does require some explanation let me give you the fast version"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_fizzler_intro06.wav", "duration": 7.888979591836734, "text": "there if you have any questions just remember what i said in slow motion test on your own recognizance ill be right back"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone01.wav", "duration": 4.649795918367347, "text": "well im back the aerial faith plate in here is sending a distress signal"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone02.wav", "duration": 1.7763265306122449, "text": "you broke it didnt you"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone03.wav", "duration": 1.6979591836734693, "text": "there try it now"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01.wav", "duration": 9.351836734693878, "text": "hmm this plate must not be calibrated to someone of your generous ness ill add a few zeros to the maximum weight"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02.wav", "duration": 2.690612244897959, "text": "you look great by the way very healthy"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03.wav", "duration": 0.9142857142857143, "text": "try it now"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_failurethree01.wav", "duration": 5.955918367346939, "text": "you seem to have defeated its loadbearing capacity well done ill just lower the ceiling"}
+{"audio_filepath": "audio/GLaDOS_sp_catapult_fling_sphere_peek_completion01.wav", "duration": 6.191020408163265, "text": "look at you sailing through the air majestically like an eagle piloting a blimp"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_ricochet01.wav", "duration": 16.90122448979592, "text": "enjoy this next test im going to go to the surface its a beautiful day out yesterday i saw a deer if you solve this next test maybe ill let you ride an elevator all the way up to the break room and ill tell you about the time i saw a deer again"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc27.wav", "duration": 10.266122448979592, "text": "well you passed the test i didnt see the deer today i did see some humans but with you here ive got more test subjects than ill ever need"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_future_starter01.wav", "duration": 7.340408163265306, "text": "if you think trapping yourself is going to make me stop testing youre sorely mistaken heres another cube"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro01.wav", "duration": 14.837551020408164, "text": "these bridges are made from natural light that i pump in from the surface if you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so dont actually do it"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro03.wav", "duration": 12.852244897959183, "text": "excellent youre a predator and these tests are your prey speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_intro04.wav", "duration": 7.444897959183673, "text": "did you guess sharks because thats wrong the correct answer is nobody nobody but you is that pointlessly cruel"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_bridge_the_gap01.wav", "duration": 16.22204081632653, "text": "good news i figured out what to do with all the money i save recycling your one roomful of air when you die im going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure"}
+{"audio_filepath": "audio/GLaDOS_sp_trust_fling_sphereinterrupt01.wav", "duration": 11.885714285714286, "text": "perfect the doors malfunctioning i guess somebodys going to have to repair that too no dont get up ill be right back dont touch anything"}
+{"audio_filepath": "audio/GLaDOS_sp_sphere_2nd_encounter_entrytwo01.wav", "duration": 8.411428571428571, "text": "i went and spoke with the door mainframe lets just say he wont be well living anymore anyway back to testing"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc19.wav", "duration": 13.50530612244898, "text": "well done in fact you did so well im going to note this on your file in the commendations section oh theres lots of room here did well    enough"}
+{"audio_filepath": "audio/GLaDOS_turret_intro01.wav", "duration": 10.579591836734695, "text": "this next test involves turrets you remember them right theyre the pale spherical things that are full of bullets oh wait thats you in five seconds good luck"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc21.wav", "duration": 16.013061224489796, "text": "to maintain a constant testing cycle i simulate daylight at all hours and add adrenal vapor to your oxygen supply so you may be confused about the passage of time the point is yesterday was your birthday i thought youd want to know"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc23.wav", "duration": 19.121632653061223, "text": "you know how im going to live forever but youre going to be dead in sixty years  well ive been working on a belated birthday present for you well more of a belated birthday medical procedure well technically its a medical experiment whats important is its a present"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_turret_intro01.wav", "duration": 12.617142857142857, "text": "that jumpsuit youre wearing looks stupid  thats not me talking its right here in your file on other people it looks fine but right here a scientist has noted that on you it looks stupid"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_turret_intro03.wav", "duration": 15.673469387755102, "text": "well what does a neckbearded old engineer know about fashion he probably  oh wait its a she still what does she know  oh wait it says she has a medical degree in fashion from france"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc30.wav", "duration": 11.650612244897959, "text": "im going through the list of test subjects in cryogenic storage i managed to find two with your last name a man and a woman so thats interesting its a small world"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_turret_blocker_future_starter01.wav", "duration": 9.560816326530611, "text": "oops you trapped yourself i guess thats it then thanks for testing you may as well lie down and get acclimated to the being dead position"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_turret_blocker_future_starter02.wav", "duration": 9.534693877551021, "text": "im kidding not about you trapping yourself though that really happened here ill lower the glass go on finish the test"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc31.wav", "duration": 12.564897959183673, "text": "i have a surprise waiting for you after this next test telling you would spoil the surprise so ill just give you a hint it involves meeting two people you havent seen in a long time"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc39.wav", "duration": 10.684081632653061, "text": "it says this next test was designed by one of apertures nobel prize winners it doesnt say what the prize was for well i know it wasnt for being immune to neurotoxin"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc33.wav", "duration": 11.311020408163266, "text": "ill bet you think i forgot about your surprise i didnt in fact were headed to your surprise right now after all these years im getting choked up just thinking about it"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc34.wav", "duration": 4.7542857142857144, "text": "initiating surprise in three two one"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc35.wav", "duration": 1.0971428571428572, "text": "i made it all up"}
+{"audio_filepath": "audio/GLaDOS_testchambermisc41.wav", "duration": 0.8359183673469388, "text": "surprise"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker01.wav", "duration": 7.888979591836734, "text": "oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt theyd even want to see you"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker04.wav", "duration": 4.806530612244898, "text": "oh thats sad but impressive maybe they worked at the phone company"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_column_blocker05.wav", "duration": 11.990204081632653, "text": "well you know the old formula comedy equals tragedy plus time and you have been asleep for a while so i guess its actually pretty funny when you do the math"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_dilemma01.wav", "duration": 6.452244897959184, "text": "i thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us"}
+{"audio_filepath": "audio/GLaDOS_a2_triple_laser01.wav", "duration": 7.732244897959184, "text": "federal regulations require me to warn you that this next test chamber is looking pretty good"}
+{"audio_filepath": "audio/GLaDOS_a2_triple_laser02.wav", "duration": 4.022857142857143, "text": "thats right the facility is completely operational again"}
+{"audio_filepath": "audio/GLaDOS_a2_triple_laser03.wav", "duration": 11.180408163265307, "text": "i think these test chambers look even better than they did before it was easy really you just have to look at things objectively see what you dont need anymore and trim out the fat"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_bts1_intro01.wav", "duration": 24.71183673469388, "text": "ive got a surprise for you after this next test not a fake tragic surprise like last time a real surprise with tragic consequences and real confetti this time the good stuff our last bag part of mes going to miss it i guessbut at the end of the day it was just taking up space"}
+{"audio_filepath": "audio/GLaDOS_jailbreak10.wav", "duration": 2.4816326530612245, "text": "whats going on who turned off the lights"}
+{"audio_filepath": "audio/GLaDOS_jailbreak09.wav", "duration": 3.657142857142857, "text": "look  metal ball i can hear you"}
+{"audio_filepath": "audio/GLaDOS_jailbreakfaketest01.wav", "duration": 3.0040816326530613, "text": "the irony is that you were almost at the last test"}
+{"audio_filepath": "audio/GLaDOS_jailbreakfaketest03.wav", "duration": 7.6538775510204085, "text": "here it is why dont you just do it trust me its an easier way out than whatever asinine plan your friend came up with"}
+{"audio_filepath": "audio/GLaDOS_jailbreakfaketest05.wav", "duration": 6.0081632653061225, "text": "oh look theres a deer you probably cant see it get closer"}
+{"audio_filepath": "audio/GLaDOS_fgbrvtrap02.wav", "duration": 3.2914285714285714, "text": "i honestly truly didnt think youd fall for that"}
+{"audio_filepath": "audio/GLaDOS_fgbrvtrap03.wav", "duration": 5.851428571428571, "text": "in fact i devised a much more elaborate trap further ahead for when you got through this easy one"}
+{"audio_filepath": "audio/GLaDOS_fgbrvtrap05.wav", "duration": 6.373877551020408, "text": "if id known youd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling"}
+{"audio_filepath": "audio/GLaDOS_fgbturrets01.wav", "duration": 3.996734693877551, "text": "well it was nice catching up lets get to business"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap01.wav", "duration": 3.213061224489796, "text": "i hope you brought something stronger than a portal gun this time"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap02.wav", "duration": 6.478367346938776, "text": "otherwise im afraid youre about to become the immediate past president of the being alive club ha ha"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap03.wav", "duration": 2.507755102040816, "text": "seriously though goodbye"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap05.wav", "duration": 3.1346938775510202, "text": "oh you were busy back there"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap06.wav", "duration": 8.54204081632653, "text": "well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea"}
+{"audio_filepath": "audio/GLaDOS_fgb_trap08.wav", "duration": 7.026938775510204, "text": "its your old friend deadly neurotoxin if i were you id take a deep breath and hold it"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_pre09.wav", "duration": 2.0114285714285716, "text": "i hate you so much"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer04.wav", "duration": 4.858775510204081, "text": "thats funny i dont feel corrupt in fact i feel pretty good"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer05.wav", "duration": 1.3583673469387756, "text": "core transfer"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer06.wav", "duration": 2.742857142857143, "text": "oh you are kidding me"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_core02.wav", "duration": 4.41469387755102, "text": "do not plug that little idiot into my mainframe"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_core01.wav", "duration": 1.8546938775510204, "text": "dont you dare plug him in"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer13.wav", "duration": 1.8808163265306121, "text": "dont do it"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_core03.wav", "duration": 0.8620408163265306, "text": "dont plug him in"}
+{"audio_filepath": "audio/GLaDOS_sp_a2_core04.wav", "duration": 0.966530612244898, "text": "dont plug him in"}
+{"audio_filepath": "audio/GLaDOS_gladosbattle_xfer07.wav", "duration": 0.7053061224489796, "text": "no"}

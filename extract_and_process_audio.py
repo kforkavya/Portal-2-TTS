@@ -81,7 +81,7 @@ def create_manifest(audio_dir, texts, filenames, output_file):
         try:
             item = {
                 "audio_filepath": audio_path,
-                "text": re.sub(r"(\d+)", lambda x: num2words(int(x.group(0))), texts[i]).lower(),
+                "text": preprocess_text(texts[i]),
                 "duration": audio_duration(audio_path),
             }
             total_audio_time += item["duration"]

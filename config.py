@@ -19,3 +19,7 @@ MAX_THREADS = 16
 MANIFEST_FILE = AUDIO_DIR + "/" + "manifest.json"
 MANIFEST_VALIDATION = "manifest_validation.json"
 MANIFEST_TRAIN = "manifest_train.json"
+
+# Data file
+TRAINING_DATA_FILE = "training_data.pkl"
+VALIDATION_DATA_FILE = "validation_data.pkl"
