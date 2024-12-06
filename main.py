@@ -1,11 +1,13 @@
-from utils import *
+from common_utils import *
 from config import *
 from extract_and_process_audio import extract_and_process_audio
-from tacotron2.model import Tacotron2
-from tacotron2.loss_function import Tacotron2Loss
-from torch.utils.data import DataLoader
 import torch.optim as optim
+from torch.utils.data import DataLoader
 from custom_dataset import CustomDataset
+sys.path.append('tacotron2')
+from model import Tacotron2
+from loss_function import Tacotron2Loss
+from hparams import create_hparams
 
 def preprocess():
     print("Starting the audio extraction process...")
@@ -29,6 +31,21 @@ def get_data():
 
     return training_data, val_data
 
+def load_checkpoint(checkpoint_path, model, optimizer):
+    checkpoint = torch.load(checkpoint_path)
+    model.load_state_dict(checkpoint['model_state_dict'])
+    optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
+    epoch_num = checkpoint['epoch']
+
+    return model, optimizer, epoch_num
+
+def save_checkpoint(model, optimizer, epoch_num, filepath):
+    torch.save({
+        'epoch': epoch + 1,
+        'model_state_dict': model.state_dict(),
+        'optimizer_state_dict': optimizer.state_dict(),
+    }, filepath)
+
 def main():
     # Get the data
     training_data, val_data = get_data()
@@ -44,8 +61,14 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print("device is", device)
 
+    # Create hyperparameters
+    hparams = create_hparams()
+    
+    # If additional configuration is needed
+    hparams.sampling_rate = TARGET_SAMPLING_RATE
+
     # Initialize the Tacotron 2 model
-    model = Tacotron2().to(device)
+    model = Tacotron2(hparams).to(device)
 
     # Loss function
     criterion = Tacotron2Loss()
@@ -53,7 +76,30 @@ def main():
     # Optimizer
     optimizer = optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
-    for epoch in range(NUM_EPOCHS):
+    # Make the checkpoints folder
+    os.makedirs(CHECKPOINT_DIR, exists_ok=True)
+    
+    # Staring from the last calculated epoch
+    start_epoch = 0  # Default starting epoch
+
+    # Check if there's an existing checkpoint
+    latest_checkpoint = max(
+        [os.path.join(CHECKPOINT_DIR, f) for f in os.listdir(CHECKPOINT_DIR) if f.endswith(".pt")],
+        key=os.path.getctime,
+    default=None
+    )
+
+    if latest_checkpoint:
+        print(f"Loading latest checkpoint: {latest_checkpoint}")
+        model, optimizer, start_epoch = load_checkpoint(latest_checkpoint, model, optimizer)
+        print(f"Resuming training from epoch {start_epoch + 1}.")
+    else:
+        print("No existing checkpoint found. Starting training from scratch.")
+
+    for epoch in range(start_epoch, NUM_EPOCHS):
+        print(f"Starting epoch {epoch + 1}...")
+        checkpoint_path = f"{CHECKPOINT_DIR}/tacotron2_epoch_{epoch + 1}.pt"
+
         # Training Loop
         model.train()
         train_loss = 0
@@ -78,8 +124,9 @@ def main():
 
         print(f"Epoch {epoch + 1}, Train Loss: {train_loss / len(train_loader)}, Val Loss: {val_loss / len(val_loader)}")
 
-        # Save checkpoints
-        torch.save(model.state_dict(), f"{CHECKPOINT_DIR}/tacotron2_epoch_{epoch + 1}.pt")
+        # Save checkpoint
+        save_checkpoint(model, optimizer, epoch, checkpoint_path)
+        print(f"Checkpoint saved for epoch {epoch + 1}.")
 
 if __name__ == "__main__":
     main()
