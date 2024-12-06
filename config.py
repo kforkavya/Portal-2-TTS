@@ -1,6 +1,7 @@
 # Directories
 AUDIO_DIR = "audio"
 TEMP_DIR = "temp_audio"
+CHECKPOINT_DIR = "checkpoints"
 
 # Sources and blocklist
 SOURCES = [
@@ -23,3 +24,8 @@ MANIFEST_TRAIN = "manifest_train.json"
 # Data file
 TRAINING_DATA_FILE = "training_data.pkl"
 VALIDATION_DATA_FILE = "validation_data.pkl"
+
+BATCH_SIZE = 32
+NUM_WORKERS = 4
+LEARNING_RATE=1e-3
+NUM_EPOCHS = 100

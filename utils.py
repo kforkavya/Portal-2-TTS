@@ -43,6 +43,12 @@ def preprocess_text(text):
     text = text.lower()  # Convert text to lowercase
     return text
 
+def load_data(file_path):
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as f:
+            return pickle.load(f):
+    return None
+
 def save_data(data, file_path):
     with open(file_path, 'wb') as f:
         pickle.dump(data, f)
