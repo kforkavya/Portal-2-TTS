@@ -11,7 +11,7 @@ class CustomDataset(torch.utils.data.Dataset):
         mel, text = self.data[index]
         mel = torch.tensor(mel, dtype=torch.float32)
         text = torch.LongTensor(text_to_sequence(text, self.text_cleaners))
-        return mel, text
+        return text, mel
 
     def __len__(self):
         return len(self.data)
