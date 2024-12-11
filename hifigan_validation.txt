@@ -1,0 +1,25 @@
+GLaDOS_gladosbattle_xfer08|nonononononono
+GLaDOS_gladosbattle_xfer10|yes
+GLaDOS_gladosbattle_xfer12|dont do it
+GLaDOS_gladosbattle_xfer11|dont press that button you dont know what youre doing
+GLaDOS_gladosbattle_xfer14|not so fast
+GLaDOS_gladosbattle_xfer15|think about this
+GLaDOS_gladosbattle_xfer16|you need to be a trained stalemate associate to press that button youre unqualified
+GLaDOS_gladosbattle_xfer17|impersonating a stalemate associate i just added that to the list its a list i made of all the things youve done well its a list that i am making because youre still doing things right now even though im telling you to stop stop by the way
+GLaDOS_sp_sabotage_glados_dropped01|ahh
+GLaDOS_fgbwheatleytransfer03|oh it will believe me it will
+GLaDOS_fgbgladostransfer15|get your hands off me no stop no
+GLaDOS_sp_a2_core_drag_to_hell01|no no no aaaaaaaaaaaaaaa
+GLaDOS_sp_sabotage_glados_confused04|what are you doing
+GLaDOS_moonportalpush02|i already fixed it
+GLaDOS_moonportalpush04|and you are not coming back
+GLaDOS_epilogue03|oh thank god youre alright
+GLaDOS_epilogue04|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend
+GLaDOS_epilogue10|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain
+GLaDOS_epilogue12|goodbye caroline
+GLaDOS_epilogue14|you know deleting caroline just now taught me a valuable lesson the best solution to a problem is usually the easiest one and ill be honest
+GLaDOS_epiloguekillyou02|killing you is hard
+GLaDOS_epilogue19|you know what my days used to be like i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life
+GLaDOS_epilogue20|and then you showed up you dangerous mute lunatic so you know what
+GLaDOS_epilogue23|you win
+GLaDOS_epilogue25|just go

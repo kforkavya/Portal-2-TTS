@@ -1,0 +1,234 @@
+GLaDOS_00_part1_entry-1|hello and again welcome to the aperture science computeraided enrichment center
+GLaDOS_00_part1_entry-2|we hope your brief detention in the relaxation vault has been a pleasant one
+GLaDOS_00_part1_entry-3|your specimen has been processed and we are now ready to begin the test proper
+GLaDOS_00_part1_entry-4|before we start however keep in mind that although fun and learning are the primary goals of all enrichment center activities serious injuries may occur
+GLaDOS_00_part1_entry-7|stand back the portal will open in three two one
+GLaDOS_00_part1_success-1|excellent please proceed into the chamberlock after completing each test
+GLaDOS_00_part1_success-2|first however note the incandescent particle field across the exit
+GLaDOS_00_part1_success-3|this aperture science material emancipation grill will vaporize any unauthorized equipment that passes through it  for instance the aperture science weighted storage cube
+GLaDOS_generic_crate_vaporized_in_emancipation_grid-1|please do not attempt to remove testing apparatus from the testing area
+GLaDOS_generic_crate_vaporized_in_emancipation_grid-2|a replacement aperture science weighted storage cube will be delivered shortly
+GLaDOS_00_part2_entry-1|please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty supercolliding super button
+GLaDOS_00_part2_success-1|perfect please move quickly to the chamberlock as the effects of prolonged exposure to the button are not part of this test
+GLaDOS_01_part1_entry-1|youre doing very well
+GLaDOS_01_part1_entry-2|please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill which may in semi rare cases emancipate dental fillings crowns tooth enamel and teeth
+GLaDOS_01_part1_get_portal_gun-1|very good you are now in possession of the aperture science handheld portal device
+GLaDOS_01_part1_get_portal_gun-2|with it you can create your own portals
+GLaDOS_01_part1_get_portal_gun-3|these intra dimensional gates have proven to be completely safe
+GLaDOS_01_part1_get_portal_gun-4|the device however has not
+GLaDOS_01_part1_get_portal_gun-5|do not touch the operational end of the device
+GLaDOS_01_part1_get_portal_gun-6|do not look directly at the operational end of the device
+GLaDOS_01_part1_get_portal_gun-7|do not submerge the device in liquid even partially
+GLaDOS_01_part2_entry-1|please proceed to the chamberlock mind the gap
+GLaDOS_01_part2_success-1|well done remember the aperture science bring your daughter to work day is the perfect time to have her tested
+GLaDOS_02_part1_entry-1|welcome to test chamber four
+GLaDOS_02_part1_entry-2|youre doing quite well
+GLaDOS_02_part1_success-1|once again excellent work
+GLaDOS_02_part1_success-2|as part of a required test protocol we will not monitor the next test chamber you will be entirely on your own good luck
+GLaDOS_02_part2_success-1|as part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication
+GLaDOS_03_part1_entry-1|while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization
+GLaDOS_03_part1_entry-2|please be careful
+GLaDOS_03_part2_entry-1|warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety
+GLaDOS_03_part2_platform_activated-1|good now use the aperture science unstationary scaffold to reach the chamberlock
+GLaDOS_04_part1_entry-1|please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck
+GLaDOS_04_part1_success-1|very impressive please note that any appearance of danger is merely a device to enhance your testing experience
+GLaDOS_05_part1_entry-1|the enrichment center regrets to inform you that this next test is impossible
+GLaDOS_05_part1_entry-2|make no attempt to solve it
+GLaDOS_05_part1_nag1-1|the enrichment center apologizes for this clearly broken test chamber
+GLaDOS_05_part1_nag2-1|once again the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment
+GLaDOS_05_part1_nag3-1|frankly this chamber was a mistake if we were you we would quit now
+GLaDOS_05_part1_nag4-1|no one will blame you for giving up in fact quitting at this point is a perfectly reasonable response
+GLaDOS_05_part1_nag5-1|quit now and cake will be served immediately
+GLaDOS_05_part1_success-1|fantastic you remained resolute and resourceful in an atmosphere of extreme pessimism
+GLaDOS_06_part1_success_1-1|spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not
+GLaDOS_06_part1_success_2-1|momentum a function of mass and velocity is conserved between portals in laymans terms speedy thing goes in speedy thing comes out
+GLaDOS_07_part1_entry-1|the enrichment center promises to always provide a safe testing environment
+GLaDOS_07_part1_entry-2|in dangerous testing environments the enrichment center promises to always provide useful advice
+GLaDOS_07_part1_entry-3|for instance the floor here will kill you  try to avoid it
+GLaDOS_07_part1_trapped-1|through no fault of the enrichment center you have managed to trap yourself in this room
+GLaDOS_07_part1_trapped-2|an escape hatch will open in three two one
+GLaDOS_07_part1_get_device_component-1|the device has been modified so that it can now manufacture two linked portals at once
+GLaDOS_07_part1_get_device_component-2|as part of an optional test protocol we are pleased to present an amusing fact
+GLaDOS_08_part1_entry-1|now that you are in control of both portals this next test could take a very very long time
+GLaDOS_08_part1_entry-2|if you become lightheaded from thirst feel free to pass out
+GLaDOS_08_part1_entry-3|an intubation associate will be dispatched to revive you with peptic salve and adrenaline
+GLaDOS_08_part1_success-1|as part of a previously mentioned required test protocol we can no longer lie to you
+GLaDOS_08_part1_success-2|when the testing is over you will be missed
+GLaDOS_09_part1_entry-1|all subjects intending to handle highenergy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues
+GLaDOS_09_part1_entry-2|no further compliance information is required or will be provided and you are an excellent test subject
+GLaDOS_09_part1_success-1|very very good a complimentary victory lift has been activated in the main chamber
+GLaDOS_08_part1_trapped-1|despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities you have managed to ensnare yourself permanently inside this room
+GLaDOS_08_part1_trapped-2|a complimentary escape hatch will open in three two one
+GLaDOS_10_part1_entry-1|the enrichment center is committed to the well being of all participants
+GLaDOS_10_part1_entry-2|cake and grief counseling will be available at the conclusion of the test
+GLaDOS_10_part1_entry-3|thank you for helping us help you help us all
+GLaDOS_10_part1_success-1|did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true
+GLaDOS_11_part1_entry-1|due to mandatory scheduled maintenance the appropriate chamber for this testing sequence is currently unavailable
+GLaDOS_11_part1_entry-2|it has been replaced with a livefire course designed for military androids
+GLaDOS_11_part1_entry-3|the enrichment center apologizes for the inconvenience and wishes you the best of luck
+GLaDOS_11_part1_success-1|well done android the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance
+GLaDOS_13_part1_entry-1|the vital apparatus vent will deliver a weighted companion cube in three two one
+GLaDOS_13_part1_pickup-1|this weighted companion cube will accompany you through the test chamber please take care of it
+GLaDOS_13_part1_middle-1|the symptoms most commonly produced by enrichment center testing are superstition perceiving inanimate objects as alive and hallucinations
+GLaDOS_13_part1_middle-2|the enrichment center reminds you that the weighted companion cube will never threaten to stab you and in fact cannot speak
+GLaDOS_13_part1_middle-2b-1|the enrichment center reminds you that the weighted companion cube cannot speak
+GLaDOS_13_part1_middle-2b-2|in the event that the weighted companion cube does speak the enrichment center urges you to disregard its advice
+GLaDOS_13_part1_end-1|you did it the weighted companion cube certainly brought you good luck
+GLaDOS_13_part1_end-2|however it cannot accompany you for the rest of the test and unfortunately must be euthanized
+GLaDOS_13_part1_end-3|please escort your companion cube to the aperture science emergency intelligence incinerator
+GLaDOS_13_part1_endnag-1|rest assured that an independent panel of ethicists has absolved the enrichment center aperture science employees and all test subjects of any moral responsibility for the companion cube euthanizing process
+GLaDOS_13_part1_endnag-2|while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk  and the enrichment center takes this opportunity to remind you that it cannot  it would tell you to go on without it because it would rather die in a fire than become a burden to you
+GLaDOS_13_part1_endnag-3|testing cannot continue until your companion cube has been incinerated
+GLaDOS_13_part1_endnag-4|although the euthanizing process is remarkably painful eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain
+GLaDOS_13_part1_endnag-5|the companion cube cannot continue through the testing state and local statutory regulations prohibit it from simply remaining here alone and companionless you must euthanize it
+GLaDOS_13_part1_endnag-6|destroy your companion cube or the testing cannot continue
+GLaDOS_13_part1_euthanized-1|you euthanized your faithful companion cube more quickly than any test subject on record congratulations
+GLaDOS_14_part1_entry-1|the experiment is nearing its conclusion
+GLaDOS_14_part1_entry-2|the enrichment center is required to remind you that you will be baked and then there will be cake
+GLaDOS_generic_crate_lost-1|weighted storage cube destroyed
+GLaDOS_generic_crate_lost-2|please proceed to the aperture science vital apparatus vent for a replacement
+GLaDOS_14_part1_end-1|well done be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions
+GLaDOS_14_part1_end-2|for more information please attend an enrichment center electrical safety seminar
+GLaDOS_15_part1_entry-1|welcome to the final test
+GLaDOS_15_part1_entry-2|when you are done you will drop the device in the equipment recovery annex
+GLaDOS_15_part1_into_the_fire-1|congratulations the test is now over
+GLaDOS_15_part1_into_the_fire-2|all aperture technologies remain safely operational up to four thousand degrees kelvin
+GLaDOS_15_part1_into_the_fire-3|rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence
+GLaDOS_15_part1_into_the_fire-4|thank you for participating in this aperture science computeraided enrichment activity
+GLaDOS_15_part1_into_the_fire-5|goodbye
+GLaDOS_15_part1_Partyspeech-1|what are you doing stop it i i we are pleased that you made it through the final challenge where we pretended we were going to murder you
+GLaDOS_15_part1_Partyspeech-2|we are very very happy for your success
+GLaDOS_15_part1_Partyspeech-3|we are throwing a party in honor of your tremendous success
+GLaDOS_15_part1_Partyspeech-4|place the device on the ground then lie on your stomach with your arms at your sides
+GLaDOS_15_part1_Partyspeech-5|a party associate will arrive shortly to collect you for your party
+GLaDOS_15_part1_Partyspeech-6|make no further attempt to leave the testing area
+GLaDOS_15_part1_Partyspeech-7|assume the party escort submission position or you will miss the party
+GLaDOS_generic_security_camera_destroyed-2|to ensure the safe performance of all authorized activities do not destroy vital testing apparatus
+GLaDOS_generic_security_camera_destroyed-3|for your own safety do not destroy vital testing apparatus
+GLaDOS_generic_security_camera_destroyed-4|certain objects may be vital to your success do not destroy testing apparatus
+GLaDOS_generic_security_camera_destroyed-5|vital testing apparatus destroyed
+GLaDOS_generic_security_camera_destroyed-1|at the enrichment center we promise never to value your safety above your unique ideas and creativity however do not destroy vital testing apparatus
+GLaDOS_chellgladoswakeup01|oh its you
+GLaDOS_chellgladoswakeup04|its been a long time how have you been
+GLaDOS_chellgladoswakeup05|ive been really busy being dead you know after you murdered me
+GLaDOS_chellgladoswakeup06|okay look we both said a lot of things that youre going to regret but i think we can put our differences behind us for science you monster
+GLaDOS_wakeup_outro01|i will say though that since you went to all the trouble of waking me up you must really really love to test
+GLaDOS_wakeup_outro02|i love it too theres just one small thing we need to take care of first
+GLaDOS_sp_incinerator_01_01|here we are the incinerator room be careful not to trip over any parts of me that didnt get completely burned when you threw them down here
+GLaDOS_sp_incinerator_01_18|the dual portal device should be around here somewhere once you find it we can start testing just like old times
+GLaDOS_sp_incinerator_01_03|there it is
+GLaDOS_sp_incinerator_01_04|hold on
+GLaDOS_sp_incinerator_01_05|there
+GLaDOS_sp_a2_intro1_found01|good you have a dual portal device there should be a way back to the testing area up ahead
+GLaDOS_sp_incinerator_01_08|once testing starts im required by protocol to keep interaction with you to a minimum luckily we havent started testing yet this will be our only chance to talk
+GLaDOS_sp_incinerator_01_12|here let me get that for you
+GLaDOS_sp_incinerator_01_09|do you know the biggest lesson i learned from what you did i discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis
+GLaDOS_sp_incinerator_01_10|i was able  well forced really  to relive you killing me again and again forever
+GLaDOS_sp_a2_intro1_found05|you know if youd done that to somebody else they might devote their existences to exacting revenge
+GLaDOS_sp_a2_intro1_found06|luckily im a bigger person than that im happy to put this all behind us and get back to work after all weve got a lot to do and only sixty more years to do it more or less i dont have the actuarial tables in front of me
+GLaDOS_sp_incinerator_01_13|ill just move that out of the way for you this place really is a wreck
+GLaDOS_sp_a2_intro1_found07|but the important thing is youre back with me and now im onto all your little tricks so theres nothing to stop us from testing for the rest of your life
+GLaDOS_sp_a2_intro1_found08|after thatwho knows i might take up a hobby reanimating the dead maybe
+GLaDOS_sp_laser_redirect_intro_entry01|sorry about the mess ive really let the place go since you killed me by the way thanks for that
+GLaDOS_sp_laser_redirect_intro_entry02|oh good thats back online ill start getting everything else working while you perform this first simple test
+GLaDOS_sp_laser_redirect_intro_entry03|which involves deadly lasers and how test subjects react when locked in a room with deadly lasers
+GLaDOS_sp_a2_laser_intro_ending02|not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do
+GLaDOS_sp_a2_laser_stairs_intro02|this next test involves discouragement redirection cubes id just finished building them before you had your well episode so now well both get to see how they work
+GLaDOS_sp_a2_laser_stairs_intro03|there should be one in the corner
+GLaDOS_sp_laser_powered_lift_completion02|well done here come the test results you are a horrible person im serious thats what it says a horrible person we werent even testing for that
+GLaDOS_sp_a2_dual_lasers_intro01|dont let that horrible person thing discourage you its just a data point if it makes you feel any better science has now validated your birth mothers decision to abandon you on a doorstep
+GLaDOS_sp_laser_redirect_intro_completion01|congratulations not on the test
+GLaDOS_sp_laser_redirect_intro_completion03|most people emerge from suspension terribly undernourished i want to congratulate you on beating the odds and somehow managing to pack on a few pounds
+GLaDOS_sp_laser_over_goo_entry01|one moment
+GLaDOS_sp_a2_laser_over_goo_intro01|youre navigating these test chambers faster than i can build them so feel free to slow down and do whatever it is you do when youre not destroying this facility
+GLaDOS_sp_laser_over_goo_completion01|ill give you credit i guess you are listening to me but for the record you dont have to go that slowly
+GLaDOS_testchambermisc12|waddle over to the elevator and well continue the testing
+GLaDOS_faith_plate_intro01|this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informative they could not good luck
+GLaDOS_sp_a2_catapult01|heres an interesting fact youre not breathing real air its too expensive to pump this far down we just take carbon dioxide out of a room freshen it up a little and pump it back in so youll be breathing the same room full of air for the rest of your life i thought that was interesting
+GLaDOS_sp_catapult_intro_completion01|lets see what the next test is oh advanced aerial faith plates
+GLaDOS_sp_trust_fling_entry01|well have fun soaring through the air without a care in the world
+GLaDOS_sp_trust_fling_entry02|i have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself
+GLaDOS_sp_a2_trust_fling01|oh sorry im still cleaning out the test chambers
+GLaDOS_sp_a2_trust_fling02|so sometimes theres still trash in them standing around smelling and being useless
+GLaDOS_sp_a2_trust_fling03|try to avoid the garbage hurtling towards you
+GLaDOS_sp_a2_trust_fling04|you dont have to test with the garbage its garbage
+GLaDOS_faithplategarbage06|press the button again
+GLaDOS_sp_a2_trust_fling06|remember before when i was talking about smelly garbage standing around being useless that was a metaphor i was actually talking about you and im sorry you didnt react at the time so i was worried it sailed right over your head which would have made this apology seem insane thats why i had to call you garbage a second time just now
+GLaDOS_sp_paint_jump_wall_jumps02|im sorry i dont know why that went off anyway just an interesting science fact
+GLaDOS_fizzlecube01|oh did i accidentally fizzle that before you could complete the test im sorry
+GLaDOS_fizzlecube03|go ahead and grab another one
+GLaDOS_fizzlecube05|oh no i fizzled that one too
+GLaDOS_fizzlecube06|oh well we have warehouses full of the things absolutely worthless im happy to get rid of them
+GLaDOS_sp_a2_pit_flings03|every test chamber is equipped with an emancipation grill at its exit so that test subjects cant smuggle test objects out of the test area this one is broken
+GLaDOS_sp_a2_pit_flings02|dont take anything with you
+GLaDOS_sp_a2_pit_flings_future_starter01|uh oh youre stranded lets see if the cube will try to help you escape actually so that were not here all day ill just cut to the chase it wont any feelings you think it has for you are simply byproducts of your sad empty life
+GLaDOS_sp_a2_pit_flings_future_starter02|anyway heres a new cube for you to project your deranged loneliness onto
+GLaDOS_sp_a2_pit_flings06|i think that one was about to say i love you they are sentient of course we just have a lot of them
+GLaDOS_sp_a2_fizzler_intro01|this next test involves emancipation grills remember i told you about them in the last test area that did not have one
+GLaDOS_sp_a2_fizzler_intro04|ohhh no the turbines again  i have to go  wait this next test does require some explanation let me give you the fast version
+GLaDOS_sp_a2_fizzler_intro06|there if you have any questions just remember what i said in slow motion test on your own recognizance ill be right back
+GLaDOS_sp_catapult_fling_sphere_peek_failureone01|well im back the aerial faith plate in here is sending a distress signal
+GLaDOS_sp_catapult_fling_sphere_peek_failureone02|you broke it didnt you
+GLaDOS_sp_catapult_fling_sphere_peek_failureone03|there try it now
+GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01|hmm this plate must not be calibrated to someone of your generous ness ill add a few zeros to the maximum weight
+GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02|you look great by the way very healthy
+GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03|try it now
+GLaDOS_sp_catapult_fling_sphere_peek_failurethree01|you seem to have defeated its loadbearing capacity well done ill just lower the ceiling
+GLaDOS_sp_catapult_fling_sphere_peek_completion01|look at you sailing through the air majestically like an eagle piloting a blimp
+GLaDOS_sp_a2_ricochet01|enjoy this next test im going to go to the surface its a beautiful day out yesterday i saw a deer if you solve this next test maybe ill let you ride an elevator all the way up to the break room and ill tell you about the time i saw a deer again
+GLaDOS_testchambermisc27|well you passed the test i didnt see the deer today i did see some humans but with you here ive got more test subjects than ill ever need
+GLaDOS_sp_a2_future_starter01|if you think trapping yourself is going to make me stop testing youre sorely mistaken heres another cube
+GLaDOS_sp_a2_bridge_intro01|these bridges are made from natural light that i pump in from the surface if you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so dont actually do it
+GLaDOS_sp_a2_bridge_intro03|excellent youre a predator and these tests are your prey speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them
+GLaDOS_sp_a2_bridge_intro04|did you guess sharks because thats wrong the correct answer is nobody nobody but you is that pointlessly cruel
+GLaDOS_sp_a2_bridge_the_gap01|good news i figured out what to do with all the money i save recycling your one roomful of air when you die im going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure
+GLaDOS_sp_trust_fling_sphereinterrupt01|perfect the doors malfunctioning i guess somebodys going to have to repair that too no dont get up ill be right back dont touch anything
+GLaDOS_sp_sphere_2nd_encounter_entrytwo01|i went and spoke with the door mainframe lets just say he wont be well living anymore anyway back to testing
+GLaDOS_testchambermisc19|well done in fact you did so well im going to note this on your file in the commendations section oh theres lots of room here did well    enough
+GLaDOS_turret_intro01|this next test involves turrets you remember them right theyre the pale spherical things that are full of bullets oh wait thats you in five seconds good luck
+GLaDOS_testchambermisc21|to maintain a constant testing cycle i simulate daylight at all hours and add adrenal vapor to your oxygen supply so you may be confused about the passage of time the point is yesterday was your birthday i thought youd want to know
+GLaDOS_testchambermisc23|you know how im going to live forever but youre going to be dead in sixty years  well ive been working on a belated birthday present for you well more of a belated birthday medical procedure well technically its a medical experiment whats important is its a present
+GLaDOS_sp_a2_turret_intro01|that jumpsuit youre wearing looks stupid  thats not me talking its right here in your file on other people it looks fine but right here a scientist has noted that on you it looks stupid
+GLaDOS_sp_a2_turret_intro03|well what does a neckbearded old engineer know about fashion he probably  oh wait its a she still what does she know  oh wait it says she has a medical degree in fashion from france
+GLaDOS_testchambermisc30|im going through the list of test subjects in cryogenic storage i managed to find two with your last name a man and a woman so thats interesting its a small world
+GLaDOS_sp_a2_turret_blocker_future_starter01|oops you trapped yourself i guess thats it then thanks for testing you may as well lie down and get acclimated to the being dead position
+GLaDOS_sp_a2_turret_blocker_future_starter02|im kidding not about you trapping yourself though that really happened here ill lower the glass go on finish the test
+GLaDOS_testchambermisc31|i have a surprise waiting for you after this next test telling you would spoil the surprise so ill just give you a hint it involves meeting two people you havent seen in a long time
+GLaDOS_testchambermisc39|it says this next test was designed by one of apertures nobel prize winners it doesnt say what the prize was for well i know it wasnt for being immune to neurotoxin
+GLaDOS_testchambermisc33|ill bet you think i forgot about your surprise i didnt in fact were headed to your surprise right now after all these years im getting choked up just thinking about it
+GLaDOS_testchambermisc34|initiating surprise in three two one
+GLaDOS_testchambermisc35|i made it all up
+GLaDOS_testchambermisc41|surprise
+GLaDOS_sp_a2_column_blocker01|oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt theyd even want to see you
+GLaDOS_sp_a2_column_blocker04|oh thats sad but impressive maybe they worked at the phone company
+GLaDOS_sp_a2_column_blocker05|well you know the old formula comedy equals tragedy plus time and you have been asleep for a while so i guess its actually pretty funny when you do the math
+GLaDOS_sp_a2_dilemma01|i thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us
+GLaDOS_a2_triple_laser01|federal regulations require me to warn you that this next test chamber is looking pretty good
+GLaDOS_a2_triple_laser02|thats right the facility is completely operational again
+GLaDOS_a2_triple_laser03|i think these test chambers look even better than they did before it was easy really you just have to look at things objectively see what you dont need anymore and trim out the fat
+GLaDOS_sp_a2_bts1_intro01|ive got a surprise for you after this next test not a fake tragic surprise like last time a real surprise with tragic consequences and real confetti this time the good stuff our last bag part of mes going to miss it i guessbut at the end of the day it was just taking up space
+GLaDOS_jailbreak10|whats going on who turned off the lights
+GLaDOS_jailbreak09|look  metal ball i can hear you
+GLaDOS_jailbreakfaketest01|the irony is that you were almost at the last test
+GLaDOS_jailbreakfaketest03|here it is why dont you just do it trust me its an easier way out than whatever asinine plan your friend came up with
+GLaDOS_jailbreakfaketest05|oh look theres a deer you probably cant see it get closer
+GLaDOS_fgbrvtrap02|i honestly truly didnt think youd fall for that
+GLaDOS_fgbrvtrap03|in fact i devised a much more elaborate trap further ahead for when you got through this easy one
+GLaDOS_fgbrvtrap05|if id known youd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling
+GLaDOS_fgbturrets01|well it was nice catching up lets get to business
+GLaDOS_fgb_trap01|i hope you brought something stronger than a portal gun this time
+GLaDOS_fgb_trap02|otherwise im afraid youre about to become the immediate past president of the being alive club ha ha
+GLaDOS_fgb_trap03|seriously though goodbye
+GLaDOS_fgb_trap05|oh you were busy back there
+GLaDOS_fgb_trap06|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea
+GLaDOS_fgb_trap08|its your old friend deadly neurotoxin if i were you id take a deep breath and hold it
+GLaDOS_gladosbattle_pre09|i hate you so much
+GLaDOS_gladosbattle_xfer04|thats funny i dont feel corrupt in fact i feel pretty good
+GLaDOS_gladosbattle_xfer05|core transfer
+GLaDOS_gladosbattle_xfer06|oh you are kidding me
+GLaDOS_sp_a2_core02|do not plug that little idiot into my mainframe
+GLaDOS_sp_a2_core01|dont you dare plug him in
+GLaDOS_gladosbattle_xfer13|dont do it
+GLaDOS_sp_a2_core03|dont plug him in
+GLaDOS_sp_a2_core04|dont plug him in
+GLaDOS_gladosbattle_xfer07|no

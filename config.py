@@ -1,9 +1,16 @@
+MAIN_DIR = "/home/Portal-2-TTS" # Change as per your convenience
+
+def assign_path(relative_path):
+    return MAIN_DIR + "/" + relative_path
+
 # Directories
-AUDIO_DIR = "audio"
-TEMP_DIR = "temp_audio"
-MEL_DIR = "mels"
-CHECKPOINT_TACOTRON2_DIR = "checkpoints_tacotron2"
-CHECKPOINT_HIFIGAN_DIR = "checkpoints_hifigan"
+AUDIO_DIR = assign_path("audio")
+TEMP_DIR = assign_path("temp_audio")
+MEL_DIR = assign_path("mels")
+TACOTRON2_DIR = assign_path("tacotron2")
+HIFIGAN_DIR = assign_path("hifi-gan")
+CHECKPOINT_TACOTRON2_DIR = assign_path("checkpoints_tacotron2")
+CHECKPOINT_HIFIGAN_DIR = assign_path("checkpoints_hifigan")
 
 # Sources and blocklist
 SOURCES = [
@@ -23,13 +30,13 @@ MAX_THREADS = 16
 
 # Manifest files
 MANIFEST_FILE = AUDIO_DIR + "/" + "manifest.json"
-MANIFEST_VALIDATION = "manifest_validation.json"
-MANIFEST_TRAIN = "manifest_train.json"
+MANIFEST_VALIDATION = assign_path("manifest_validation.json")
+MANIFEST_TRAIN = assign_path("manifest_train.json")
 
 # Data file
-TRAINING_DATA_FILE = "training_data.pkl"
-VALIDATION_DATA_FILE = "validation_data.pkl"
-TACOTRON2_TRAINED_FILE = "tacotron2_trained.pt"
+TRAINING_DATA_FILE = assign_path("training_data.pkl")
+VALIDATION_DATA_FILE = assign_path("validation_data.pkl")
+TACOTRON2_TRAINED_FILE = assign_path("tacotron2_trained.pt")
 
 # Tacotron2 Training Parameters
 BATCH_SIZE = 32
@@ -38,4 +45,8 @@ LEARNING_RATE=1e-3
 NUM_EPOCHS = 100
 
 # Config files
-CONFIG_HIFIGAN = "config_hifigan.json"
+CONFIG_HIFIGAN = assign_path("config_hifigan.json")
+
+# Hifigan files
+HIFIGAN_TRAIN = assign_path("hifigan_training.txt")
+HIFIGAN_VALIDATION = assign_path("hifigan_validation.txt")
