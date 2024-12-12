@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/75796284/typeerror-mel-takes-0-positional-arguments-but-5-were-given
+https://github.com/coqui-ai/TTS/issues/2449
