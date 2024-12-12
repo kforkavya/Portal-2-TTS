@@ -21,7 +21,7 @@ def split_data(test_ratio=0.1):
     os.system(f"cat {MANIFEST_FILE} | tail -n {test_data_size} > {MANIFEST_VALIDATION}")
     os.system(f"cat {MANIFEST_FILE} | head -n -{test_data_size} > {MANIFEST_TRAIN} ")
 
-def extract_mel_spectrogram(audio_file, sr=TARGET_SAMPLING_RATE, n_fft=N_FFT, hop_length=HOP_LENGTH, n_mels=N_MELS, max_wav_value=32768.0):
+def extract_mel_spectrogram(audio_file, sr=TARGET_SAMPLING_RATE, n_fft=N_FFT, hop_length=HOP_LENGTH, n_mels=N_MELS, max_wav_value=MAX_WAV_VALUE):
     """Extract Mel spectrogram matching the PyTorch tensor-based implementation."""
     # Load audio and ensure sampling rate matches
     audio, _ = librosa.load(audio_file, sr=sr)

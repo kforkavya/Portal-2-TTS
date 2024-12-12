@@ -1,4 +1,4 @@
-from common_utils import *
+from imports import *
 from config import *
 
 def main():
