@@ -11,6 +11,7 @@ TACOTRON2_DIR = assign_path("tacotron2")
 HIFIGAN_DIR = assign_path("hifi-gan")
 CHECKPOINT_TACOTRON2_DIR = assign_path("checkpoints_tacotron2")
 CHECKPOINT_HIFIGAN_DIR = assign_path("checkpoints_hifigan")
+TEST_HIFIGAN_DIR = assign_path("test_hifigan")
 
 # Sources and blocklist
 SOURCES = [
@@ -29,7 +30,7 @@ N_MELS = 80
 MAX_THREADS = 16
 
 # Manifest files
-MANIFEST_FILE = AUDIO_DIR + "/" + "manifest.json"
+MANIFEST_FILE = assign_path("manifest.json")
 MANIFEST_VALIDATION = assign_path("manifest_validation.json")
 MANIFEST_TRAIN = assign_path("manifest_train.json")
 
