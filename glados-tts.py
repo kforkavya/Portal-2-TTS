@@ -1,6 +1,21 @@
 from config import *
 from common_utils import *
 
+def remove_and_unload_modules(directory):
+    """Remove a directory from sys.path and unload all modules associated with it."""
+    # Remove the directory from sys.path
+    if directory in sys.path:
+        sys.path.remove(directory)
+        print(f"Removed {directory} from sys.path")
+
+    # Unload all modules associated with the directory
+    modules_to_remove = [name for name, module in sys.modules.items()
+                         if module and hasattr(module, '__file__') and module.__file__ and directory in module.__file__]
+    
+    for module_name in modules_to_remove:
+        del sys.modules[module_name]
+        print(f"Unloaded module: {module_name}")
+
 # Load Tacotron2 Model
 def load_tacotron2(checkpoint_path):
     from my_hparams import create_hparams
@@ -14,29 +29,32 @@ def load_tacotron2(checkpoint_path):
     except Exception as e:
         print("Error load_tacotron2:", e)
     finally:
-        sys.path.remove('tacotron2')  # Clean up by removing the added path
+        remove_and_unload_modules('tacotron2')
     return model_var
 
 # Load HiFi-GAN Model
 def load_hifigan(checkpoint_path):
-    print(sys.path)
-    sys.path.insert(0, HIFIGAN_DIR) # Add HIFIGAN_DIR to the Python path temporarily
+    sys.path.append(HIFIGAN_DIR) # Add HIFIGAN_DIR to the Python path temporarily
     try:
         from models import Generator
-        model = Generator()
-        checkpoint = torch.load(checkpoint_path, map_location=torch.device('cpu'))
+        from env import AttrDict
+        config_filepath = CHECKPOINT_HIFIGAN_DIR + "/config.json"
+        with open(config_filepath, 'r') as f:
+            h = AttrDict(json.loads(f.read()))
+        model = Generator(h)
+        checkpoint = torch.load(checkpoint_path, map_location=torch.device('cpu'), weights_only=False)
         model.load_state_dict(checkpoint['generator'])
         model.eval()
         model.remove_weight_norm()
     except Exception as e:
         print("Error load_hifigan:", e)
     finally:
-        sys.path.remove(HIFIGAN_DIR)  # Clean up by removing the added path
+        remove_and_unload_modules(HIFIGAN_DIR)
     return model
 
 # Text-to-Mel Conversion
 def generate_mel(input_text, tacotron2):
-    sys.path.insert(0, TACOTRON2_DIR) # Add TACOTRON2_DIR to the Python path temporarily
+    sys.path.append(TACOTRON2_DIR) # Add TACOTRON2_DIR to the Python path temporarily
     try:
         from text import text_to_sequence
         sequence = text_to_sequence(preprocess_text(input_text), ['english_cleaners'])
@@ -46,7 +64,7 @@ def generate_mel(input_text, tacotron2):
     except Exception as e:
         print("Error generate_mel:", e)
     finally:
-        sys.path.remove(TACOTRON2_DIR)  # Clean up by removing the added path
+        remove_and_unload_modules(TACOTRON2_DIR)  # Clean up by removing the added path
     return mel_outputs
 
 # Mel-to-Audio Conversion using HiFi-GAN
@@ -59,7 +77,7 @@ def generate_audio(mel, hifigan):
     return audio
 
 # Main Function
-def glados_tts(text):
+def glados_tts(text, output_path):
     # Load models
     print("Loading Tacotron2...")
     if not os.path.exists(TACOTRON2_TRAINED_FILE):
@@ -87,16 +105,16 @@ def glados_tts(text):
     audio = generate_audio(mel, hifigan)
 
     # Save audio
-    sf.write(OUTPUT_WAV_PATH, audio, samplerate=SAMPLING_RATE)
-    print(f"Audio saved at {OUTPUT_WAV_PATH}")
+    sf.write(output_path, audio, samplerate=TARGET_SAMPLING_RATE)
+    print(f"Audio saved at {output_path}")
 
 # Entry Point
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="GLaDOS Text-to-Speech")
     parser.add_argument("--text", type=str, required=True, help="Input text for TTS")
-    parser.add_argument("--output", type=str, default="output.wav", help="Output WAV file path")
+    parser.add_argument("--output_path", type=str, default="output.wav", help="Output WAV file path")
     args = parser.parse_args()
 
     # Generate TTS
-    glados_tts(args.text)
+    glados_tts(args.text, args.output_path)
