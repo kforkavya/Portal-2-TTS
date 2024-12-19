@@ -214,7 +214,12 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             x, y = model.parse_batch(batch)
             y_pred = model(x)
 
+            print("got y_pred")
+
             loss = criterion(y_pred, y)
+
+            print("got loss")
+
             if hparams.distributed_run:
                 reduced_loss = reduce_tensor(loss.data, n_gpus).item()
             else:
@@ -224,6 +229,8 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
                     scaled_loss.backward()
             else:
                 loss.backward()
+
+            print("backward step done")
 
             if hparams.fp16_run:
                 grad_norm = torch.nn.utils.clip_grad_norm_(

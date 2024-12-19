@@ -1,11 +1,30 @@
-import tensorflow as tf
 from text import symbols
 
+class HParams: # my class
+    def __init__(self, **kwargs):
+        self._params = kwargs
+
+    def __getattr__(self, name):
+        return self._params.get(name, None)
+
+    def set_hparam(self, key, value):
+        self._params[key] = value
+
+    def parse(self, string):
+        for key_val in string.split(","):
+            key, val = key_val.split("=")
+            try:
+                self.set_hparam(key, int(val))
+            except:
+                self.set_hparam(key, val)
+    
+    def values(self):
+        return self._params
 
 def create_hparams(hparams_string=None, verbose=False):
     """Create model hyperparameters. Parse nondefault from given string."""
 
-    hparams = tf.contrib.training.HParams(
+    hparams = HParams( # my class
         ################################
         # Experiment Parameters        #
         ################################
@@ -81,15 +100,15 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=8,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
     if hparams_string:
-        tf.logging.info('Parsing command line hparams: %s', hparams_string)
+        print('Parsing command line hparams: %s', hparams_string)
         hparams.parse(hparams_string)
 
     if verbose:
-        tf.logging.info('Final parsed hparams: %s', hparams.values())
+        print('Final parsed hparams: %s', hparams.values())
 
     return hparams

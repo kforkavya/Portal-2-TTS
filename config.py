@@ -1,7 +1,9 @@
-MAIN_DIR = "/home/Portal-2-TTS" # Change as per your convenience
+from os import getcwd
+from os.path import join
+MAIN_DIR = getcwd()
 
 def assign_path(relative_path):
-    return MAIN_DIR + "/" + relative_path
+    return join(MAIN_DIR, relative_path)
 
 # Directories
 AUDIO_DIR = assign_path("audio")
@@ -36,12 +38,12 @@ MANIFEST_VALIDATION = assign_path("manifest_validation.json")
 MANIFEST_TRAIN = assign_path("manifest_train.json")
 
 # Data file
-TRAINING_DATA_FILE = assign_path("training_data.pkl")
-VALIDATION_DATA_FILE = assign_path("validation_data.pkl")
+TACOTRON2_TRAIN = assign_path("tacotron2_training.txt")
+TACOTRON2_VALIDATION = assign_path("tacotron2_validation.txt")
 TACOTRON2_TRAINED_FILE = assign_path("tacotron2_trained.pt")
 
 # Tacotron2 Training Parameters
-BATCH_SIZE = 32
+BATCH_SIZE = 2
 NUM_WORKERS = 4
 LEARNING_RATE=1e-3
 NUM_EPOCHS = 100

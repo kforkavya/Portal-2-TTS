@@ -1,3 +1,9 @@
 bs4
 num2words
 torch
+torchvision
+scipy
+librosa
+unidecode
+inflect
+matplotlib
