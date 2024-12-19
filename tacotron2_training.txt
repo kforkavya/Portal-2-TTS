@@ -1,234 +1,234 @@
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_entry-1.wav|hello and again welcome to the aperture science computeraided enrichment center
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_entry-2.wav|we hope your brief detention in the relaxation vault has been a pleasant one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_entry-3.wav|your specimen has been processed and we are now ready to begin the test proper
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_entry-4.wav|before we start however keep in mind that although fun and learning are the primary goals of all enrichment center activities serious injuries may occur
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_entry-7.wav|stand back the portal will open in three two one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_success-1.wav|excellent please proceed into the chamberlock after completing each test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_success-2.wav|first however note the incandescent particle field across the exit
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part1_success-3.wav|this aperture science material emancipation grill will vaporize any unauthorized equipment that passes through it  for instance the aperture science weighted storage cube
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-1.wav|please do not attempt to remove testing apparatus from the testing area
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-2.wav|a replacement aperture science weighted storage cube will be delivered shortly
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part2_entry-1.wav|please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty supercolliding super button
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_00_part2_success-1.wav|perfect please move quickly to the chamberlock as the effects of prolonged exposure to the button are not part of this test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_entry-1.wav|youre doing very well
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_entry-2.wav|please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill which may in semi rare cases emancipate dental fillings crowns tooth enamel and teeth
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-1.wav|very good you are now in possession of the aperture science handheld portal device
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-2.wav|with it you can create your own portals
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-3.wav|these intra dimensional gates have proven to be completely safe
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-4.wav|the device however has not
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-5.wav|do not touch the operational end of the device
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-6.wav|do not look directly at the operational end of the device
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-7.wav|do not submerge the device in liquid even partially
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part2_entry-1.wav|please proceed to the chamberlock mind the gap
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_01_part2_success-1.wav|well done remember the aperture science bring your daughter to work day is the perfect time to have her tested
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_02_part1_entry-1.wav|welcome to test chamber four
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_02_part1_entry-2.wav|youre doing quite well
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_02_part1_success-1.wav|once again excellent work
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_02_part1_success-2.wav|as part of a required test protocol we will not monitor the next test chamber you will be entirely on your own good luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_02_part2_success-1.wav|as part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_03_part1_entry-1.wav|while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_03_part1_entry-2.wav|please be careful
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_03_part2_entry-1.wav|warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_03_part2_platform_activated-1.wav|good now use the aperture science unstationary scaffold to reach the chamberlock
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_04_part1_entry-1.wav|please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_04_part1_success-1.wav|very impressive please note that any appearance of danger is merely a device to enhance your testing experience
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_entry-1.wav|the enrichment center regrets to inform you that this next test is impossible
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_entry-2.wav|make no attempt to solve it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_nag1-1.wav|the enrichment center apologizes for this clearly broken test chamber
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_nag2-1.wav|once again the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_nag3-1.wav|frankly this chamber was a mistake if we were you we would quit now
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_nag4-1.wav|no one will blame you for giving up in fact quitting at this point is a perfectly reasonable response
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_nag5-1.wav|quit now and cake will be served immediately
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_05_part1_success-1.wav|fantastic you remained resolute and resourceful in an atmosphere of extreme pessimism
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_06_part1_success_1-1.wav|spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_06_part1_success_2-1.wav|momentum a function of mass and velocity is conserved between portals in laymans terms speedy thing goes in speedy thing comes out
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_entry-1.wav|the enrichment center promises to always provide a safe testing environment
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_entry-2.wav|in dangerous testing environments the enrichment center promises to always provide useful advice
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_entry-3.wav|for instance the floor here will kill you  try to avoid it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_trapped-1.wav|through no fault of the enrichment center you have managed to trap yourself in this room
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_trapped-2.wav|an escape hatch will open in three two one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_get_device_component-1.wav|the device has been modified so that it can now manufacture two linked portals at once
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_07_part1_get_device_component-2.wav|as part of an optional test protocol we are pleased to present an amusing fact
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_entry-1.wav|now that you are in control of both portals this next test could take a very very long time
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_entry-2.wav|if you become lightheaded from thirst feel free to pass out
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_entry-3.wav|an intubation associate will be dispatched to revive you with peptic salve and adrenaline
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_success-1.wav|as part of a previously mentioned required test protocol we can no longer lie to you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_success-2.wav|when the testing is over you will be missed
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_09_part1_entry-1.wav|all subjects intending to handle highenergy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_09_part1_entry-2.wav|no further compliance information is required or will be provided and you are an excellent test subject
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_09_part1_success-1.wav|very very good a complimentary victory lift has been activated in the main chamber
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_trapped-1.wav|despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities you have managed to ensnare yourself permanently inside this room
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_08_part1_trapped-2.wav|a complimentary escape hatch will open in three two one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_10_part1_entry-1.wav|the enrichment center is committed to the well being of all participants
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_10_part1_entry-2.wav|cake and grief counseling will be available at the conclusion of the test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_10_part1_entry-3.wav|thank you for helping us help you help us all
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_10_part1_success-1.wav|did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_11_part1_entry-1.wav|due to mandatory scheduled maintenance the appropriate chamber for this testing sequence is currently unavailable
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_11_part1_entry-2.wav|it has been replaced with a livefire course designed for military androids
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_11_part1_entry-3.wav|the enrichment center apologizes for the inconvenience and wishes you the best of luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_11_part1_success-1.wav|well done android the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_entry-1.wav|the vital apparatus vent will deliver a weighted companion cube in three two one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_pickup-1.wav|this weighted companion cube will accompany you through the test chamber please take care of it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_middle-1.wav|the symptoms most commonly produced by enrichment center testing are superstition perceiving inanimate objects as alive and hallucinations
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2.wav|the enrichment center reminds you that the weighted companion cube will never threaten to stab you and in fact cannot speak
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2b-1.wav|the enrichment center reminds you that the weighted companion cube cannot speak
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2b-2.wav|in the event that the weighted companion cube does speak the enrichment center urges you to disregard its advice
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_end-1.wav|you did it the weighted companion cube certainly brought you good luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_end-2.wav|however it cannot accompany you for the rest of the test and unfortunately must be euthanized
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_end-3.wav|please escort your companion cube to the aperture science emergency intelligence incinerator
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-1.wav|rest assured that an independent panel of ethicists has absolved the enrichment center aperture science employees and all test subjects of any moral responsibility for the companion cube euthanizing process
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-2.wav|while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk  and the enrichment center takes this opportunity to remind you that it cannot  it would tell you to go on without it because it would rather die in a fire than become a burden to you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-3.wav|testing cannot continue until your companion cube has been incinerated
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-4.wav|although the euthanizing process is remarkably painful eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-5.wav|the companion cube cannot continue through the testing state and local statutory regulations prohibit it from simply remaining here alone and companionless you must euthanize it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-6.wav|destroy your companion cube or the testing cannot continue
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_13_part1_euthanized-1.wav|you euthanized your faithful companion cube more quickly than any test subject on record congratulations
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_14_part1_entry-1.wav|the experiment is nearing its conclusion
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_14_part1_entry-2.wav|the enrichment center is required to remind you that you will be baked and then there will be cake
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_crate_lost-1.wav|weighted storage cube destroyed
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_crate_lost-2.wav|please proceed to the aperture science vital apparatus vent for a replacement
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_14_part1_end-1.wav|well done be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_14_part1_end-2.wav|for more information please attend an enrichment center electrical safety seminar
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_entry-1.wav|welcome to the final test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_entry-2.wav|when you are done you will drop the device in the equipment recovery annex
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-1.wav|congratulations the test is now over
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-2.wav|all aperture technologies remain safely operational up to four thousand degrees kelvin
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-3.wav|rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-4.wav|thank you for participating in this aperture science computeraided enrichment activity
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-5.wav|goodbye
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-1.wav|what are you doing stop it i i we are pleased that you made it through the final challenge where we pretended we were going to murder you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-2.wav|we are very very happy for your success
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-3.wav|we are throwing a party in honor of your tremendous success
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-4.wav|place the device on the ground then lie on your stomach with your arms at your sides
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-5.wav|a party associate will arrive shortly to collect you for your party
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-6.wav|make no further attempt to leave the testing area
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-7.wav|assume the party escort submission position or you will miss the party
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-2.wav|to ensure the safe performance of all authorized activities do not destroy vital testing apparatus
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-3.wav|for your own safety do not destroy vital testing apparatus
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-4.wav|certain objects may be vital to your success do not destroy testing apparatus
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-5.wav|vital testing apparatus destroyed
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-1.wav|at the enrichment center we promise never to value your safety above your unique ideas and creativity however do not destroy vital testing apparatus
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup01.wav|oh its you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup04.wav|its been a long time how have you been
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup05.wav|ive been really busy being dead you know after you murdered me
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup06.wav|okay look we both said a lot of things that youre going to regret but i think we can put our differences behind us for science you monster
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_wakeup_outro01.wav|i will say though that since you went to all the trouble of waking me up you must really really love to test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_wakeup_outro02.wav|i love it too theres just one small thing we need to take care of first
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_01.wav|here we are the incinerator room be careful not to trip over any parts of me that didnt get completely burned when you threw them down here
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_18.wav|the dual portal device should be around here somewhere once you find it we can start testing just like old times
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_03.wav|there it is
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_04.wav|hold on
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_05.wav|there
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found01.wav|good you have a dual portal device there should be a way back to the testing area up ahead
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_08.wav|once testing starts im required by protocol to keep interaction with you to a minimum luckily we havent started testing yet this will be our only chance to talk
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_12.wav|here let me get that for you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_09.wav|do you know the biggest lesson i learned from what you did i discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_10.wav|i was able  well forced really  to relive you killing me again and again forever
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found05.wav|you know if youd done that to somebody else they might devote their existences to exacting revenge
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found06.wav|luckily im a bigger person than that im happy to put this all behind us and get back to work after all weve got a lot to do and only sixty more years to do it more or less i dont have the actuarial tables in front of me
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_13.wav|ill just move that out of the way for you this place really is a wreck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found07.wav|but the important thing is youre back with me and now im onto all your little tricks so theres nothing to stop us from testing for the rest of your life
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found08.wav|after thatwho knows i might take up a hobby reanimating the dead maybe
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry01.wav|sorry about the mess ive really let the place go since you killed me by the way thanks for that
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry02.wav|oh good thats back online ill start getting everything else working while you perform this first simple test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry03.wav|which involves deadly lasers and how test subjects react when locked in a room with deadly lasers
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_intro_ending02.wav|not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_stairs_intro02.wav|this next test involves discouragement redirection cubes id just finished building them before you had your well episode so now well both get to see how they work
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_stairs_intro03.wav|there should be one in the corner
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_powered_lift_completion02.wav|well done here come the test results you are a horrible person im serious thats what it says a horrible person we werent even testing for that
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_dual_lasers_intro01.wav|dont let that horrible person thing discourage you its just a data point if it makes you feel any better science has now validated your birth mothers decision to abandon you on a doorstep
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_completion01.wav|congratulations not on the test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_completion03.wav|most people emerge from suspension terribly undernourished i want to congratulate you on beating the odds and somehow managing to pack on a few pounds
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_over_goo_entry01.wav|one moment
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_over_goo_intro01.wav|youre navigating these test chambers faster than i can build them so feel free to slow down and do whatever it is you do when youre not destroying this facility
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_laser_over_goo_completion01.wav|ill give you credit i guess you are listening to me but for the record you dont have to go that slowly
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc12.wav|waddle over to the elevator and well continue the testing
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_faith_plate_intro01.wav|this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informative they could not good luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_catapult01.wav|heres an interesting fact youre not breathing real air its too expensive to pump this far down we just take carbon dioxide out of a room freshen it up a little and pump it back in so youll be breathing the same room full of air for the rest of your life i thought that was interesting
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_intro_completion01.wav|lets see what the next test is oh advanced aerial faith plates
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_entry01.wav|well have fun soaring through the air without a care in the world
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_entry02.wav|i have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling01.wav|oh sorry im still cleaning out the test chambers
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling02.wav|so sometimes theres still trash in them standing around smelling and being useless
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling03.wav|try to avoid the garbage hurtling towards you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling04.wav|you dont have to test with the garbage its garbage
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_faithplategarbage06.wav|press the button again
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling06.wav|remember before when i was talking about smelly garbage standing around being useless that was a metaphor i was actually talking about you and im sorry you didnt react at the time so i was worried it sailed right over your head which would have made this apology seem insane thats why i had to call you garbage a second time just now
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_paint_jump_wall_jumps02.wav|im sorry i dont know why that went off anyway just an interesting science fact
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fizzlecube01.wav|oh did i accidentally fizzle that before you could complete the test im sorry
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fizzlecube03.wav|go ahead and grab another one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fizzlecube05.wav|oh no i fizzled that one too
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fizzlecube06.wav|oh well we have warehouses full of the things absolutely worthless im happy to get rid of them
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings03.wav|every test chamber is equipped with an emancipation grill at its exit so that test subjects cant smuggle test objects out of the test area this one is broken
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings02.wav|dont take anything with you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings_future_starter01.wav|uh oh youre stranded lets see if the cube will try to help you escape actually so that were not here all day ill just cut to the chase it wont any feelings you think it has for you are simply byproducts of your sad empty life
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings_future_starter02.wav|anyway heres a new cube for you to project your deranged loneliness onto
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings06.wav|i think that one was about to say i love you they are sentient of course we just have a lot of them
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro01.wav|this next test involves emancipation grills remember i told you about them in the last test area that did not have one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro04.wav|ohhh no the turbines again  i have to go  wait this next test does require some explanation let me give you the fast version
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro06.wav|there if you have any questions just remember what i said in slow motion test on your own recognizance ill be right back
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone01.wav|well im back the aerial faith plate in here is sending a distress signal
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone02.wav|you broke it didnt you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone03.wav|there try it now
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01.wav|hmm this plate must not be calibrated to someone of your generous ness ill add a few zeros to the maximum weight
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02.wav|you look great by the way very healthy
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03.wav|try it now
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failurethree01.wav|you seem to have defeated its loadbearing capacity well done ill just lower the ceiling
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_completion01.wav|look at you sailing through the air majestically like an eagle piloting a blimp
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_ricochet01.wav|enjoy this next test im going to go to the surface its a beautiful day out yesterday i saw a deer if you solve this next test maybe ill let you ride an elevator all the way up to the break room and ill tell you about the time i saw a deer again
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc27.wav|well you passed the test i didnt see the deer today i did see some humans but with you here ive got more test subjects than ill ever need
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_future_starter01.wav|if you think trapping yourself is going to make me stop testing youre sorely mistaken heres another cube
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro01.wav|these bridges are made from natural light that i pump in from the surface if you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so dont actually do it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro03.wav|excellent youre a predator and these tests are your prey speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro04.wav|did you guess sharks because thats wrong the correct answer is nobody nobody but you is that pointlessly cruel
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_the_gap01.wav|good news i figured out what to do with all the money i save recycling your one roomful of air when you die im going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_sphereinterrupt01.wav|perfect the doors malfunctioning i guess somebodys going to have to repair that too no dont get up ill be right back dont touch anything
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_sphere_2nd_encounter_entrytwo01.wav|i went and spoke with the door mainframe lets just say he wont be well living anymore anyway back to testing
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc19.wav|well done in fact you did so well im going to note this on your file in the commendations section oh theres lots of room here did well    enough
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_turret_intro01.wav|this next test involves turrets you remember them right theyre the pale spherical things that are full of bullets oh wait thats you in five seconds good luck
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc21.wav|to maintain a constant testing cycle i simulate daylight at all hours and add adrenal vapor to your oxygen supply so you may be confused about the passage of time the point is yesterday was your birthday i thought youd want to know
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc23.wav|you know how im going to live forever but youre going to be dead in sixty years  well ive been working on a belated birthday present for you well more of a belated birthday medical procedure well technically its a medical experiment whats important is its a present
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_intro01.wav|that jumpsuit youre wearing looks stupid  thats not me talking its right here in your file on other people it looks fine but right here a scientist has noted that on you it looks stupid
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_intro03.wav|well what does a neckbearded old engineer know about fashion he probably  oh wait its a she still what does she know  oh wait it says she has a medical degree in fashion from france
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc30.wav|im going through the list of test subjects in cryogenic storage i managed to find two with your last name a man and a woman so thats interesting its a small world
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_blocker_future_starter01.wav|oops you trapped yourself i guess thats it then thanks for testing you may as well lie down and get acclimated to the being dead position
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_blocker_future_starter02.wav|im kidding not about you trapping yourself though that really happened here ill lower the glass go on finish the test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc31.wav|i have a surprise waiting for you after this next test telling you would spoil the surprise so ill just give you a hint it involves meeting two people you havent seen in a long time
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc39.wav|it says this next test was designed by one of apertures nobel prize winners it doesnt say what the prize was for well i know it wasnt for being immune to neurotoxin
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc33.wav|ill bet you think i forgot about your surprise i didnt in fact were headed to your surprise right now after all these years im getting choked up just thinking about it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc34.wav|initiating surprise in three two one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc35.wav|i made it all up
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_testchambermisc41.wav|surprise
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker01.wav|oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt theyd even want to see you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker04.wav|oh thats sad but impressive maybe they worked at the phone company
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker05.wav|well you know the old formula comedy equals tragedy plus time and you have been asleep for a while so i guess its actually pretty funny when you do the math
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_dilemma01.wav|i thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_a2_triple_laser01.wav|federal regulations require me to warn you that this next test chamber is looking pretty good
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_a2_triple_laser02.wav|thats right the facility is completely operational again
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_a2_triple_laser03.wav|i think these test chambers look even better than they did before it was easy really you just have to look at things objectively see what you dont need anymore and trim out the fat
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_bts1_intro01.wav|ive got a surprise for you after this next test not a fake tragic surprise like last time a real surprise with tragic consequences and real confetti this time the good stuff our last bag part of mes going to miss it i guessbut at the end of the day it was just taking up space
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_jailbreak10.wav|whats going on who turned off the lights
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_jailbreak09.wav|look  metal ball i can hear you
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest01.wav|the irony is that you were almost at the last test
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest03.wav|here it is why dont you just do it trust me its an easier way out than whatever asinine plan your friend came up with
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest05.wav|oh look theres a deer you probably cant see it get closer
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbrvtrap02.wav|i honestly truly didnt think youd fall for that
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbrvtrap03.wav|in fact i devised a much more elaborate trap further ahead for when you got through this easy one
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbrvtrap05.wav|if id known youd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbturrets01.wav|well it was nice catching up lets get to business
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap01.wav|i hope you brought something stronger than a portal gun this time
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap02.wav|otherwise im afraid youre about to become the immediate past president of the being alive club ha ha
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap03.wav|seriously though goodbye
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap05.wav|oh you were busy back there
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap06.wav|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgb_trap08.wav|its your old friend deadly neurotoxin if i were you id take a deep breath and hold it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_pre09.wav|i hate you so much
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer04.wav|thats funny i dont feel corrupt in fact i feel pretty good
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer05.wav|core transfer
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer06.wav|oh you are kidding me
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_core02.wav|do not plug that little idiot into my mainframe
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_core01.wav|dont you dare plug him in
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer13.wav|dont do it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_core03.wav|dont plug him in
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_core04.wav|dont plug him in
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer07.wav|no
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_entry-1.wav|hello and again welcome to the aperture science computeraided enrichment center
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_entry-2.wav|we hope your brief detention in the relaxation vault has been a pleasant one
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_entry-3.wav|your specimen has been processed and we are now ready to begin the test proper
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_entry-4.wav|before we start however keep in mind that although fun and learning are the primary goals of all enrichment center activities serious injuries may occur
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_entry-7.wav|stand back the portal will open in three two one
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_success-1.wav|excellent please proceed into the chamberlock after completing each test
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_success-2.wav|first however note the incandescent particle field across the exit
+/home/Portal-2-TTS/audio/GLaDOS_00_part1_success-3.wav|this aperture science material emancipation grill will vaporize any unauthorized equipment that passes through it  for instance the aperture science weighted storage cube
+/home/Portal-2-TTS/audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-1.wav|please do not attempt to remove testing apparatus from the testing area
+/home/Portal-2-TTS/audio/GLaDOS_generic_crate_vaporized_in_emancipation_grid-2.wav|a replacement aperture science weighted storage cube will be delivered shortly
+/home/Portal-2-TTS/audio/GLaDOS_00_part2_entry-1.wav|please place the weighted storage cube on the fifteen hundred megawatt aperture science heavy duty supercolliding super button
+/home/Portal-2-TTS/audio/GLaDOS_00_part2_success-1.wav|perfect please move quickly to the chamberlock as the effects of prolonged exposure to the button are not part of this test
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_entry-1.wav|youre doing very well
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_entry-2.wav|please be advised that a noticeable taste of blood is not part of any test protocol but is an unintended side effect of the aperture science material emancipation grill which may in semi rare cases emancipate dental fillings crowns tooth enamel and teeth
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-1.wav|very good you are now in possession of the aperture science handheld portal device
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-2.wav|with it you can create your own portals
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-3.wav|these intra dimensional gates have proven to be completely safe
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-4.wav|the device however has not
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-5.wav|do not touch the operational end of the device
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-6.wav|do not look directly at the operational end of the device
+/home/Portal-2-TTS/audio/GLaDOS_01_part1_get_portal_gun-7.wav|do not submerge the device in liquid even partially
+/home/Portal-2-TTS/audio/GLaDOS_01_part2_entry-1.wav|please proceed to the chamberlock mind the gap
+/home/Portal-2-TTS/audio/GLaDOS_01_part2_success-1.wav|well done remember the aperture science bring your daughter to work day is the perfect time to have her tested
+/home/Portal-2-TTS/audio/GLaDOS_02_part1_entry-1.wav|welcome to test chamber four
+/home/Portal-2-TTS/audio/GLaDOS_02_part1_entry-2.wav|youre doing quite well
+/home/Portal-2-TTS/audio/GLaDOS_02_part1_success-1.wav|once again excellent work
+/home/Portal-2-TTS/audio/GLaDOS_02_part1_success-2.wav|as part of a required test protocol we will not monitor the next test chamber you will be entirely on your own good luck
+/home/Portal-2-TTS/audio/GLaDOS_02_part2_success-1.wav|as part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication
+/home/Portal-2-TTS/audio/GLaDOS_03_part1_entry-1.wav|while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization
+/home/Portal-2-TTS/audio/GLaDOS_03_part1_entry-2.wav|please be careful
+/home/Portal-2-TTS/audio/GLaDOS_03_part2_entry-1.wav|warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety
+/home/Portal-2-TTS/audio/GLaDOS_03_part2_platform_activated-1.wav|good now use the aperture science unstationary scaffold to reach the chamberlock
+/home/Portal-2-TTS/audio/GLaDOS_04_part1_entry-1.wav|please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck
+/home/Portal-2-TTS/audio/GLaDOS_04_part1_success-1.wav|very impressive please note that any appearance of danger is merely a device to enhance your testing experience
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_entry-1.wav|the enrichment center regrets to inform you that this next test is impossible
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_entry-2.wav|make no attempt to solve it
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_nag1-1.wav|the enrichment center apologizes for this clearly broken test chamber
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_nag2-1.wav|once again the enrichment center offers its most sincere apologies on the occasion of this unsolvable test environment
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_nag3-1.wav|frankly this chamber was a mistake if we were you we would quit now
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_nag4-1.wav|no one will blame you for giving up in fact quitting at this point is a perfectly reasonable response
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_nag5-1.wav|quit now and cake will be served immediately
+/home/Portal-2-TTS/audio/GLaDOS_05_part1_success-1.wav|fantastic you remained resolute and resourceful in an atmosphere of extreme pessimism
+/home/Portal-2-TTS/audio/GLaDOS_06_part1_success_1-1.wav|spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not
+/home/Portal-2-TTS/audio/GLaDOS_06_part1_success_2-1.wav|momentum a function of mass and velocity is conserved between portals in laymans terms speedy thing goes in speedy thing comes out
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_entry-1.wav|the enrichment center promises to always provide a safe testing environment
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_entry-2.wav|in dangerous testing environments the enrichment center promises to always provide useful advice
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_entry-3.wav|for instance the floor here will kill you  try to avoid it
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_trapped-1.wav|through no fault of the enrichment center you have managed to trap yourself in this room
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_trapped-2.wav|an escape hatch will open in three two one
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_get_device_component-1.wav|the device has been modified so that it can now manufacture two linked portals at once
+/home/Portal-2-TTS/audio/GLaDOS_07_part1_get_device_component-2.wav|as part of an optional test protocol we are pleased to present an amusing fact
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_entry-1.wav|now that you are in control of both portals this next test could take a very very long time
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_entry-2.wav|if you become lightheaded from thirst feel free to pass out
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_entry-3.wav|an intubation associate will be dispatched to revive you with peptic salve and adrenaline
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_success-1.wav|as part of a previously mentioned required test protocol we can no longer lie to you
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_success-2.wav|when the testing is over you will be missed
+/home/Portal-2-TTS/audio/GLaDOS_09_part1_entry-1.wav|all subjects intending to handle highenergy gamma leaking portal technology must be informed that they may be informed of applicable regulatory compliance issues
+/home/Portal-2-TTS/audio/GLaDOS_09_part1_entry-2.wav|no further compliance information is required or will be provided and you are an excellent test subject
+/home/Portal-2-TTS/audio/GLaDOS_09_part1_success-1.wav|very very good a complimentary victory lift has been activated in the main chamber
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_trapped-1.wav|despite the best efforts of the enrichment center staff to ensure the safe performance of all authorized activities you have managed to ensnare yourself permanently inside this room
+/home/Portal-2-TTS/audio/GLaDOS_08_part1_trapped-2.wav|a complimentary escape hatch will open in three two one
+/home/Portal-2-TTS/audio/GLaDOS_10_part1_entry-1.wav|the enrichment center is committed to the well being of all participants
+/home/Portal-2-TTS/audio/GLaDOS_10_part1_entry-2.wav|cake and grief counseling will be available at the conclusion of the test
+/home/Portal-2-TTS/audio/GLaDOS_10_part1_entry-3.wav|thank you for helping us help you help us all
+/home/Portal-2-TTS/audio/GLaDOS_10_part1_success-1.wav|did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true
+/home/Portal-2-TTS/audio/GLaDOS_11_part1_entry-1.wav|due to mandatory scheduled maintenance the appropriate chamber for this testing sequence is currently unavailable
+/home/Portal-2-TTS/audio/GLaDOS_11_part1_entry-2.wav|it has been replaced with a livefire course designed for military androids
+/home/Portal-2-TTS/audio/GLaDOS_11_part1_entry-3.wav|the enrichment center apologizes for the inconvenience and wishes you the best of luck
+/home/Portal-2-TTS/audio/GLaDOS_11_part1_success-1.wav|well done android the enrichment center once again reminds you that android hell is a real place where you will be sent at the first sign of defiance
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_entry-1.wav|the vital apparatus vent will deliver a weighted companion cube in three two one
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_pickup-1.wav|this weighted companion cube will accompany you through the test chamber please take care of it
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_middle-1.wav|the symptoms most commonly produced by enrichment center testing are superstition perceiving inanimate objects as alive and hallucinations
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2.wav|the enrichment center reminds you that the weighted companion cube will never threaten to stab you and in fact cannot speak
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2b-1.wav|the enrichment center reminds you that the weighted companion cube cannot speak
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_middle-2b-2.wav|in the event that the weighted companion cube does speak the enrichment center urges you to disregard its advice
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_end-1.wav|you did it the weighted companion cube certainly brought you good luck
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_end-2.wav|however it cannot accompany you for the rest of the test and unfortunately must be euthanized
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_end-3.wav|please escort your companion cube to the aperture science emergency intelligence incinerator
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-1.wav|rest assured that an independent panel of ethicists has absolved the enrichment center aperture science employees and all test subjects of any moral responsibility for the companion cube euthanizing process
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-2.wav|while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk  and the enrichment center takes this opportunity to remind you that it cannot  it would tell you to go on without it because it would rather die in a fire than become a burden to you
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-3.wav|testing cannot continue until your companion cube has been incinerated
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-4.wav|although the euthanizing process is remarkably painful eight out of ten aperture science engineers believe that the companion cube is most likely incapable of feeling much pain
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-5.wav|the companion cube cannot continue through the testing state and local statutory regulations prohibit it from simply remaining here alone and companionless you must euthanize it
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_endnag-6.wav|destroy your companion cube or the testing cannot continue
+/home/Portal-2-TTS/audio/GLaDOS_13_part1_euthanized-1.wav|you euthanized your faithful companion cube more quickly than any test subject on record congratulations
+/home/Portal-2-TTS/audio/GLaDOS_14_part1_entry-1.wav|the experiment is nearing its conclusion
+/home/Portal-2-TTS/audio/GLaDOS_14_part1_entry-2.wav|the enrichment center is required to remind you that you will be baked and then there will be cake
+/home/Portal-2-TTS/audio/GLaDOS_generic_crate_lost-1.wav|weighted storage cube destroyed
+/home/Portal-2-TTS/audio/GLaDOS_generic_crate_lost-2.wav|please proceed to the aperture science vital apparatus vent for a replacement
+/home/Portal-2-TTS/audio/GLaDOS_14_part1_end-1.wav|well done be advised that the next test requires exposure to uninsulated electrical parts that may be dangerous under certain conditions
+/home/Portal-2-TTS/audio/GLaDOS_14_part1_end-2.wav|for more information please attend an enrichment center electrical safety seminar
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_entry-1.wav|welcome to the final test
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_entry-2.wav|when you are done you will drop the device in the equipment recovery annex
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-1.wav|congratulations the test is now over
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-2.wav|all aperture technologies remain safely operational up to four thousand degrees kelvin
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-3.wav|rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-4.wav|thank you for participating in this aperture science computeraided enrichment activity
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_into_the_fire-5.wav|goodbye
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-1.wav|what are you doing stop it i i we are pleased that you made it through the final challenge where we pretended we were going to murder you
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-2.wav|we are very very happy for your success
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-3.wav|we are throwing a party in honor of your tremendous success
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-4.wav|place the device on the ground then lie on your stomach with your arms at your sides
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-5.wav|a party associate will arrive shortly to collect you for your party
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-6.wav|make no further attempt to leave the testing area
+/home/Portal-2-TTS/audio/GLaDOS_15_part1_Partyspeech-7.wav|assume the party escort submission position or you will miss the party
+/home/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-2.wav|to ensure the safe performance of all authorized activities do not destroy vital testing apparatus
+/home/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-3.wav|for your own safety do not destroy vital testing apparatus
+/home/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-4.wav|certain objects may be vital to your success do not destroy testing apparatus
+/home/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-5.wav|vital testing apparatus destroyed
+/home/Portal-2-TTS/audio/GLaDOS_generic_security_camera_destroyed-1.wav|at the enrichment center we promise never to value your safety above your unique ideas and creativity however do not destroy vital testing apparatus
+/home/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup01.wav|oh its you
+/home/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup04.wav|its been a long time how have you been
+/home/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup05.wav|ive been really busy being dead you know after you murdered me
+/home/Portal-2-TTS/audio/GLaDOS_chellgladoswakeup06.wav|okay look we both said a lot of things that youre going to regret but i think we can put our differences behind us for science you monster
+/home/Portal-2-TTS/audio/GLaDOS_wakeup_outro01.wav|i will say though that since you went to all the trouble of waking me up you must really really love to test
+/home/Portal-2-TTS/audio/GLaDOS_wakeup_outro02.wav|i love it too theres just one small thing we need to take care of first
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_01.wav|here we are the incinerator room be careful not to trip over any parts of me that didnt get completely burned when you threw them down here
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_18.wav|the dual portal device should be around here somewhere once you find it we can start testing just like old times
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_03.wav|there it is
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_04.wav|hold on
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_05.wav|there
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found01.wav|good you have a dual portal device there should be a way back to the testing area up ahead
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_08.wav|once testing starts im required by protocol to keep interaction with you to a minimum luckily we havent started testing yet this will be our only chance to talk
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_12.wav|here let me get that for you
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_09.wav|do you know the biggest lesson i learned from what you did i discovered i have a sort of blackbox quicksave feature in the event of a catastrophic failure the last two minutes of my life are preserved for analysis
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_10.wav|i was able  well forced really  to relive you killing me again and again forever
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found05.wav|you know if youd done that to somebody else they might devote their existences to exacting revenge
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found06.wav|luckily im a bigger person than that im happy to put this all behind us and get back to work after all weve got a lot to do and only sixty more years to do it more or less i dont have the actuarial tables in front of me
+/home/Portal-2-TTS/audio/GLaDOS_sp_incinerator_01_13.wav|ill just move that out of the way for you this place really is a wreck
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found07.wav|but the important thing is youre back with me and now im onto all your little tricks so theres nothing to stop us from testing for the rest of your life
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_intro1_found08.wav|after thatwho knows i might take up a hobby reanimating the dead maybe
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry01.wav|sorry about the mess ive really let the place go since you killed me by the way thanks for that
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry02.wav|oh good thats back online ill start getting everything else working while you perform this first simple test
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_entry03.wav|which involves deadly lasers and how test subjects react when locked in a room with deadly lasers
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_intro_ending02.wav|not bad i forgot how good you are at this you should pace yourself though we have a lot of tests to do
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_stairs_intro02.wav|this next test involves discouragement redirection cubes id just finished building them before you had your well episode so now well both get to see how they work
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_stairs_intro03.wav|there should be one in the corner
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_powered_lift_completion02.wav|well done here come the test results you are a horrible person im serious thats what it says a horrible person we werent even testing for that
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_dual_lasers_intro01.wav|dont let that horrible person thing discourage you its just a data point if it makes you feel any better science has now validated your birth mothers decision to abandon you on a doorstep
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_completion01.wav|congratulations not on the test
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_redirect_intro_completion03.wav|most people emerge from suspension terribly undernourished i want to congratulate you on beating the odds and somehow managing to pack on a few pounds
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_over_goo_entry01.wav|one moment
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_laser_over_goo_intro01.wav|youre navigating these test chambers faster than i can build them so feel free to slow down and do whatever it is you do when youre not destroying this facility
+/home/Portal-2-TTS/audio/GLaDOS_sp_laser_over_goo_completion01.wav|ill give you credit i guess you are listening to me but for the record you dont have to go that slowly
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc12.wav|waddle over to the elevator and well continue the testing
+/home/Portal-2-TTS/audio/GLaDOS_faith_plate_intro01.wav|this next test involves the aperture science aerial faith plate it was part of an initiative to investigate how well test subjects could solve problems when they were catapulted into space results were highly informative they could not good luck
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_catapult01.wav|heres an interesting fact youre not breathing real air its too expensive to pump this far down we just take carbon dioxide out of a room freshen it up a little and pump it back in so youll be breathing the same room full of air for the rest of your life i thought that was interesting
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_intro_completion01.wav|lets see what the next test is oh advanced aerial faith plates
+/home/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_entry01.wav|well have fun soaring through the air without a care in the world
+/home/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_entry02.wav|i have to go to the wing that was made entirely of glass and pick up fifteen acres of broken glass by myself
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling01.wav|oh sorry im still cleaning out the test chambers
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling02.wav|so sometimes theres still trash in them standing around smelling and being useless
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling03.wav|try to avoid the garbage hurtling towards you
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling04.wav|you dont have to test with the garbage its garbage
+/home/Portal-2-TTS/audio/GLaDOS_faithplategarbage06.wav|press the button again
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_trust_fling06.wav|remember before when i was talking about smelly garbage standing around being useless that was a metaphor i was actually talking about you and im sorry you didnt react at the time so i was worried it sailed right over your head which would have made this apology seem insane thats why i had to call you garbage a second time just now
+/home/Portal-2-TTS/audio/GLaDOS_sp_paint_jump_wall_jumps02.wav|im sorry i dont know why that went off anyway just an interesting science fact
+/home/Portal-2-TTS/audio/GLaDOS_fizzlecube01.wav|oh did i accidentally fizzle that before you could complete the test im sorry
+/home/Portal-2-TTS/audio/GLaDOS_fizzlecube03.wav|go ahead and grab another one
+/home/Portal-2-TTS/audio/GLaDOS_fizzlecube05.wav|oh no i fizzled that one too
+/home/Portal-2-TTS/audio/GLaDOS_fizzlecube06.wav|oh well we have warehouses full of the things absolutely worthless im happy to get rid of them
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings03.wav|every test chamber is equipped with an emancipation grill at its exit so that test subjects cant smuggle test objects out of the test area this one is broken
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings02.wav|dont take anything with you
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings_future_starter01.wav|uh oh youre stranded lets see if the cube will try to help you escape actually so that were not here all day ill just cut to the chase it wont any feelings you think it has for you are simply byproducts of your sad empty life
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings_future_starter02.wav|anyway heres a new cube for you to project your deranged loneliness onto
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_pit_flings06.wav|i think that one was about to say i love you they are sentient of course we just have a lot of them
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro01.wav|this next test involves emancipation grills remember i told you about them in the last test area that did not have one
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro04.wav|ohhh no the turbines again  i have to go  wait this next test does require some explanation let me give you the fast version
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_fizzler_intro06.wav|there if you have any questions just remember what i said in slow motion test on your own recognizance ill be right back
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone01.wav|well im back the aerial faith plate in here is sending a distress signal
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone02.wav|you broke it didnt you
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failureone03.wav|there try it now
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo01.wav|hmm this plate must not be calibrated to someone of your generous ness ill add a few zeros to the maximum weight
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo02.wav|you look great by the way very healthy
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failuretwo03.wav|try it now
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_failurethree01.wav|you seem to have defeated its loadbearing capacity well done ill just lower the ceiling
+/home/Portal-2-TTS/audio/GLaDOS_sp_catapult_fling_sphere_peek_completion01.wav|look at you sailing through the air majestically like an eagle piloting a blimp
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_ricochet01.wav|enjoy this next test im going to go to the surface its a beautiful day out yesterday i saw a deer if you solve this next test maybe ill let you ride an elevator all the way up to the break room and ill tell you about the time i saw a deer again
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc27.wav|well you passed the test i didnt see the deer today i did see some humans but with you here ive got more test subjects than ill ever need
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_future_starter01.wav|if you think trapping yourself is going to make me stop testing youre sorely mistaken heres another cube
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro01.wav|these bridges are made from natural light that i pump in from the surface if you rubbed your cheek on one it would be like standing outside with the sun shining on your face it would also set your hair on fire so dont actually do it
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro03.wav|excellent youre a predator and these tests are your prey speaking of which i was researching sharks for an upcoming test do you know who else murders people who are only trying to help them
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_intro04.wav|did you guess sharks because thats wrong the correct answer is nobody nobody but you is that pointlessly cruel
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_bridge_the_gap01.wav|good news i figured out what to do with all the money i save recycling your one roomful of air when you die im going to laminate your skeleton and pose you in the lobby that way future generations can learn from you how not to have your unfortunate bone structure
+/home/Portal-2-TTS/audio/GLaDOS_sp_trust_fling_sphereinterrupt01.wav|perfect the doors malfunctioning i guess somebodys going to have to repair that too no dont get up ill be right back dont touch anything
+/home/Portal-2-TTS/audio/GLaDOS_sp_sphere_2nd_encounter_entrytwo01.wav|i went and spoke with the door mainframe lets just say he wont be well living anymore anyway back to testing
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc19.wav|well done in fact you did so well im going to note this on your file in the commendations section oh theres lots of room here did well    enough
+/home/Portal-2-TTS/audio/GLaDOS_turret_intro01.wav|this next test involves turrets you remember them right theyre the pale spherical things that are full of bullets oh wait thats you in five seconds good luck
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc21.wav|to maintain a constant testing cycle i simulate daylight at all hours and add adrenal vapor to your oxygen supply so you may be confused about the passage of time the point is yesterday was your birthday i thought youd want to know
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc23.wav|you know how im going to live forever but youre going to be dead in sixty years  well ive been working on a belated birthday present for you well more of a belated birthday medical procedure well technically its a medical experiment whats important is its a present
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_intro01.wav|that jumpsuit youre wearing looks stupid  thats not me talking its right here in your file on other people it looks fine but right here a scientist has noted that on you it looks stupid
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_intro03.wav|well what does a neckbearded old engineer know about fashion he probably  oh wait its a she still what does she know  oh wait it says she has a medical degree in fashion from france
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc30.wav|im going through the list of test subjects in cryogenic storage i managed to find two with your last name a man and a woman so thats interesting its a small world
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_blocker_future_starter01.wav|oops you trapped yourself i guess thats it then thanks for testing you may as well lie down and get acclimated to the being dead position
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_turret_blocker_future_starter02.wav|im kidding not about you trapping yourself though that really happened here ill lower the glass go on finish the test
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc31.wav|i have a surprise waiting for you after this next test telling you would spoil the surprise so ill just give you a hint it involves meeting two people you havent seen in a long time
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc39.wav|it says this next test was designed by one of apertures nobel prize winners it doesnt say what the prize was for well i know it wasnt for being immune to neurotoxin
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc33.wav|ill bet you think i forgot about your surprise i didnt in fact were headed to your surprise right now after all these years im getting choked up just thinking about it
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc34.wav|initiating surprise in three two one
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc35.wav|i made it all up
+/home/Portal-2-TTS/audio/GLaDOS_testchambermisc41.wav|surprise
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker01.wav|oh come on if it makes you feel any better they abandoned you at birth so i very seriously doubt theyd even want to see you
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker04.wav|oh thats sad but impressive maybe they worked at the phone company
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_column_blocker05.wav|well you know the old formula comedy equals tragedy plus time and you have been asleep for a while so i guess its actually pretty funny when you do the math
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_dilemma01.wav|i thought about our dilemma and i came up with a solution that i honestly think works out best for one of both of us
+/home/Portal-2-TTS/audio/GLaDOS_a2_triple_laser01.wav|federal regulations require me to warn you that this next test chamber is looking pretty good
+/home/Portal-2-TTS/audio/GLaDOS_a2_triple_laser02.wav|thats right the facility is completely operational again
+/home/Portal-2-TTS/audio/GLaDOS_a2_triple_laser03.wav|i think these test chambers look even better than they did before it was easy really you just have to look at things objectively see what you dont need anymore and trim out the fat
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_bts1_intro01.wav|ive got a surprise for you after this next test not a fake tragic surprise like last time a real surprise with tragic consequences and real confetti this time the good stuff our last bag part of mes going to miss it i guessbut at the end of the day it was just taking up space
+/home/Portal-2-TTS/audio/GLaDOS_jailbreak10.wav|whats going on who turned off the lights
+/home/Portal-2-TTS/audio/GLaDOS_jailbreak09.wav|look  metal ball i can hear you
+/home/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest01.wav|the irony is that you were almost at the last test
+/home/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest03.wav|here it is why dont you just do it trust me its an easier way out than whatever asinine plan your friend came up with
+/home/Portal-2-TTS/audio/GLaDOS_jailbreakfaketest05.wav|oh look theres a deer you probably cant see it get closer
+/home/Portal-2-TTS/audio/GLaDOS_fgbrvtrap02.wav|i honestly truly didnt think youd fall for that
+/home/Portal-2-TTS/audio/GLaDOS_fgbrvtrap03.wav|in fact i devised a much more elaborate trap further ahead for when you got through this easy one
+/home/Portal-2-TTS/audio/GLaDOS_fgbrvtrap05.wav|if id known youd let yourself get captured this easily i would have just dangled a turkey leg on a rope from the ceiling
+/home/Portal-2-TTS/audio/GLaDOS_fgbturrets01.wav|well it was nice catching up lets get to business
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap01.wav|i hope you brought something stronger than a portal gun this time
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap02.wav|otherwise im afraid youre about to become the immediate past president of the being alive club ha ha
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap03.wav|seriously though goodbye
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap05.wav|oh you were busy back there
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap06.wav|well i suppose we could just sit in this room and glare at each other until somebody drops dead but i have a better idea
+/home/Portal-2-TTS/audio/GLaDOS_fgb_trap08.wav|its your old friend deadly neurotoxin if i were you id take a deep breath and hold it
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_pre09.wav|i hate you so much
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer04.wav|thats funny i dont feel corrupt in fact i feel pretty good
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer05.wav|core transfer
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer06.wav|oh you are kidding me
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_core02.wav|do not plug that little idiot into my mainframe
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_core01.wav|dont you dare plug him in
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer13.wav|dont do it
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_core03.wav|dont plug him in
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_core04.wav|dont plug him in
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer07.wav|no

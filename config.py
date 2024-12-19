@@ -43,7 +43,7 @@ TACOTRON2_VALIDATION = assign_path("tacotron2_validation.txt")
 TACOTRON2_TRAINED_FILE = assign_path("tacotron2_trained.pt")
 
 # Tacotron2 Training Parameters
-BATCH_SIZE = 2
+BATCH_SIZE = 32
 NUM_WORKERS = 4
 LEARNING_RATE=1e-3
 NUM_EPOCHS = 100

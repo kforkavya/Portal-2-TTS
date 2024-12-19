@@ -13,10 +13,15 @@ class HParams: # my class
     def parse(self, string):
         for key_val in string.split(","):
             key, val = key_val.split("=")
-            try:
-                self.set_hparam(key, int(val))
-            except:
-                self.set_hparam(key, val)
+            if val == "True":
+                self.set_hparam(key, True)
+            elif val == "False":
+                self.set_hparam(key, False)
+            else:
+                try:
+                    self.set_hparam(key, int(val))
+                except:
+                    self.set_hparam(key, val)
     
     def values(self):
         return self._params
@@ -29,7 +34,7 @@ def create_hparams(hparams_string=None, verbose=False):
         # Experiment Parameters        #
         ################################
         epochs=500,
-        iters_per_checkpoint=1000,
+        iters_per_checkpoint=250,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,

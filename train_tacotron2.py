@@ -25,14 +25,27 @@ def main(create_train_valid=False):
     os.chdir(TACOTRON2_DIR)
     try:
         os.system(f"python3 train.py \
-                --output_directory {CHECKPOINT_TACOTRON2_DIR} \
-                --log_directory {logging_dir} \
-                --hparams 'training_files={TACOTRON2_TRAIN},validation_files={TACOTRON2_VALIDATION},batch_size={BATCH_SIZE}'")
+               --output_directory {CHECKPOINT_TACOTRON2_DIR} \
+               --log_directory {logging_dir} \
+               --hparams 'training_files={TACOTRON2_TRAIN},validation_files={TACOTRON2_VALIDATION},batch_size={BATCH_SIZE}'")
     except Exception as e:
         print("Error!!!")
         print(e)
     finally:
         os.chdir(MAIN_DIR)
+
+    # Find the latest checkpoint file
+    latest_checkpoint_file = max(
+        [os.path.join(CHECKPOINT_TACOTRON2_DIR, f) for f in os.listdir(CHECKPOINT_TACOTRON2_DIR) if f.startswith("checkpoint_")],
+        key=(lambda x : int(x.split('_')[-1])), # Take the checkpoint of the farthest steps calculated
+    default=None
+    )
+    if latest_checkpoint_file is None:
+        print("No checkpoints found. Exiting.")
+        exit(1)
+    print("Checkpoint file picked is", latest_checkpoint_file)
+    os.system(f'cp {latest_checkpoint_file} {TACOTRON2_TRAINED_FILE}')
+    print("Saved!!!")
 
 if __name__ == "__main__":
     main()

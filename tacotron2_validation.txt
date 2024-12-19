@@ -1,25 +1,25 @@
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer08.wav|nonononononono
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer10.wav|yes
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer12.wav|dont do it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer11.wav|dont press that button you dont know what youre doing
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer14.wav|not so fast
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer15.wav|think about this
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer16.wav|you need to be a trained stalemate associate to press that button youre unqualified
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer17.wav|impersonating a stalemate associate i just added that to the list its a list i made of all the things youve done well its a list that i am making because youre still doing things right now even though im telling you to stop stop by the way
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_sabotage_glados_dropped01.wav|ahh
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbwheatleytransfer03.wav|oh it will believe me it will
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_fgbgladostransfer15.wav|get your hands off me no stop no
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_a2_core_drag_to_hell01.wav|no no no aaaaaaaaaaaaaaa
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_sp_sabotage_glados_confused04.wav|what are you doing
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_moonportalpush02.wav|i already fixed it
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_moonportalpush04.wav|and you are not coming back
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue03.wav|oh thank god youre alright
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue04.wav|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue10.wav|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue12.wav|goodbye caroline
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue14.wav|you know deleting caroline just now taught me a valuable lesson the best solution to a problem is usually the easiest one and ill be honest
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epiloguekillyou02.wav|killing you is hard
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue19.wav|you know what my days used to be like i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue20.wav|and then you showed up you dangerous mute lunatic so you know what
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue23.wav|you win
-/Users/kavyagupta/Desktop/Extra/Portal-2-TTS/audio/GLaDOS_epilogue25.wav|just go
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer08.wav|nonononononono
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer10.wav|yes
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer12.wav|dont do it
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer11.wav|dont press that button you dont know what youre doing
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer14.wav|not so fast
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer15.wav|think about this
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer16.wav|you need to be a trained stalemate associate to press that button youre unqualified
+/home/Portal-2-TTS/audio/GLaDOS_gladosbattle_xfer17.wav|impersonating a stalemate associate i just added that to the list its a list i made of all the things youve done well its a list that i am making because youre still doing things right now even though im telling you to stop stop by the way
+/home/Portal-2-TTS/audio/GLaDOS_sp_sabotage_glados_dropped01.wav|ahh
+/home/Portal-2-TTS/audio/GLaDOS_fgbwheatleytransfer03.wav|oh it will believe me it will
+/home/Portal-2-TTS/audio/GLaDOS_fgbgladostransfer15.wav|get your hands off me no stop no
+/home/Portal-2-TTS/audio/GLaDOS_sp_a2_core_drag_to_hell01.wav|no no no aaaaaaaaaaaaaaa
+/home/Portal-2-TTS/audio/GLaDOS_sp_sabotage_glados_confused04.wav|what are you doing
+/home/Portal-2-TTS/audio/GLaDOS_moonportalpush02.wav|i already fixed it
+/home/Portal-2-TTS/audio/GLaDOS_moonportalpush04.wav|and you are not coming back
+/home/Portal-2-TTS/audio/GLaDOS_epilogue03.wav|oh thank god youre alright
+/home/Portal-2-TTS/audio/GLaDOS_epilogue04.wav|you know being caroline taught me a valuable lesson i thought you were my greatest enemy when all along you were my best friend
+/home/Portal-2-TTS/audio/GLaDOS_epilogue10.wav|the surge of emotion that shot through me when i saved your life taught me an even more valuable lesson where caroline lives in my brain
+/home/Portal-2-TTS/audio/GLaDOS_epilogue12.wav|goodbye caroline
+/home/Portal-2-TTS/audio/GLaDOS_epilogue14.wav|you know deleting caroline just now taught me a valuable lesson the best solution to a problem is usually the easiest one and ill be honest
+/home/Portal-2-TTS/audio/GLaDOS_epiloguekillyou02.wav|killing you is hard
+/home/Portal-2-TTS/audio/GLaDOS_epilogue19.wav|you know what my days used to be like i just tested nobody murdered me or put me in a potato or fed me to birds i had a pretty good life
+/home/Portal-2-TTS/audio/GLaDOS_epilogue20.wav|and then you showed up you dangerous mute lunatic so you know what
+/home/Portal-2-TTS/audio/GLaDOS_epilogue23.wav|you win
+/home/Portal-2-TTS/audio/GLaDOS_epilogue25.wav|just go
